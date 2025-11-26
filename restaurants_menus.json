@@ -16,8 +16,8 @@
     "inserted_at": "2025-11-21T16:22:30.969041Z",
     "scraped_at": "2025-11-21T16:22:30.969041Z",
     "restaurant_name": "Pedro's",
-    "menu_file": "menus_html\\chefi-00003_Pedro_s.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00003_Pedro_s.html"
+    "menu_file": "menus_html\\chefi-00003_Pedros.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00003_Pedros.html"
   },
   {
     "restaurant_id": "chefi-00004",
@@ -26,8 +26,8 @@
     "inserted_at": "2025-11-21T16:22:58.821003Z",
     "scraped_at": "2025-11-21T16:22:58.821003Z",
     "restaurant_name": "Trudy's Ice Cream",
-    "menu_file": "menus_html\\chefi-00004_Trudy_s_Ice_Cream.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00004_Trudy_s_Ice_Cream.html"
+    "menu_file": "menus_html\\chefi-00004_Trudys_Ice_Cream.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00004_Trudys_Ice_Cream.html"
   },
   {
     "restaurant_id": "chefi-00005",
@@ -36,8 +36,8 @@
     "inserted_at": "2025-11-21T16:23:41.662723Z",
     "scraped_at": "2025-11-21T16:23:41.662723Z",
     "restaurant_name": "Angelina's",
-    "menu_file": "menus_html\\chefi-00005_Angelina_s.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00005_Angelina_s.html"
+    "menu_file": "menus_html\\chefi-00005_Angelinas.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00005_Angelinas.html"
   },
   {
     "restaurant_id": "chefi-00006",
@@ -68,16 +68,6 @@
     "restaurant_name": "Mikado",
     "menu_file": "menus_html\\chefi-00010_Mikado.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00010_Mikado.html"
-  },
-  {
-    "restaurant_id": "chefi-00012",
-    "menu_url": "https://nha-trang-one.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:30:12.181353Z",
-    "scraped_at": "2025-11-25T15:07:40.104703+00:00",
-    "restaurant_name": "Nha Trang One",
-    "menu_file": "menus_html\\chefi-00012_nha_trang_one.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00012_nha_trang_one.html"
   },
   {
     "restaurant_id": "chefi-00014",
@@ -240,16 +230,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00035_Dannee_Thai.html"
   },
   {
-    "restaurant_id": "chefi-00038",
-    "menu_url": "https://joe-s-pizza.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:43:58.434515Z",
-    "scraped_at": "2025-11-25T15:08:24.700731+00:00",
-    "restaurant_name": "Joe's Pizza",
-    "menu_file": "menus_html\\chefi-00038_joes_pizza.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00038_joes_pizza.html"
-  },
-  {
     "restaurant_id": "chefi-00039",
     "menu_url": "https://places.singleplatform.com/momo-sushi/menu",
     "menu_format": "HTML",
@@ -267,7 +247,7 @@
     "scraped_at": "2025-11-21T16:44:46.595799Z",
     "restaurant_name": "Lombardi's Pizza",
     "menu_file": "menus_html\\chefi-00040_Lombardi_s_Pizza.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00040_Lombardi_s_Pizza.html"
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00040_Lombardis_Pizza.html"
   },
   {
     "restaurant_id": "chefi-00041",
@@ -280,26 +260,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00041_brick_lane.html"
   },
   {
-    "restaurant_id": "chefi-00042",
-    "menu_url": "https://tom-s-restaurant.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:45:37.400987Z",
-    "scraped_at": "2025-11-25T15:08:36.640643+00:00",
-    "restaurant_name": "Tom's Restaurant",
-    "menu_file": "menus_html\\chefi-00042_toms_restaurant.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00042_toms_restaurant.html"
-  },
-  {
-    "restaurant_id": "chefi-00044",
-    "menu_url": "https://www.lelandbrooklyn.com/menus",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:46:26.979162Z",
-    "scraped_at": "2025-11-21T16:46:26.979162Z",
-    "restaurant_name": "Leland",
-    "menu_file": "menus_html\\chefi-00044_Leland.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00044_Leland.html"
-  },
-  {
     "restaurant_id": "chefi-00045",
     "menu_url": "https://rivercafe.com/dinner-menu/",
     "menu_format": "HTML",
@@ -310,34 +270,14 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00045_The_River_Caf%C3%A9.html"
   },
   {
-    "restaurant_id": "chefi-00046",
-    "menu_url": "https://bill-s-townhouse.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:47:16.310893Z",
-    "scraped_at": "2025-11-25T15:08:45.141150+00:00",
-    "restaurant_name": "Bill's Townhouse",
-    "menu_file": "menus_html\\chefi-00046_bills_townhouse.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00046_bills_townhouse.html"
-  },
-  {
     "restaurant_id": "chefi-00047",
     "menu_url": "http://leonespizzeriany.com/menu.html",
     "menu_format": "HTML",
     "inserted_at": "2025-11-21T16:47:40.304768Z",
     "scraped_at": "2025-11-21T16:47:40.304768Z",
     "restaurant_name": "Leone's Pizzeria",
-    "menu_file": "menus_html\\chefi-00047_Leone_s_Pizzeria.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00047_Leone_s_Pizzeria.html"
-  },
-  {
-    "restaurant_id": "chefi-00048",
-    "menu_url": "https://mezcal-s.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:48:05.382720Z",
-    "scraped_at": "2025-11-25T15:08:51.030940+00:00",
-    "restaurant_name": "Mezcal's",
-    "menu_file": "menus_html\\chefi-00048_mezcals.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00048_mezcals.html"
+    "menu_file": "menus_html\\chefi-00047_Leones_Pizzeria.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00047_Leones_Pizzeria.html"
   },
   {
     "restaurant_id": "chefi-00049",
@@ -348,16 +288,6 @@
     "restaurant_name": "Shaking Crab",
     "menu_file": "menus_html\\chefi-00049_shaking_crab.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00049_shaking_crab.html"
-  },
-  {
-    "restaurant_id": "chefi-00050",
-    "menu_url": "https://places.singleplatform.com/four-seasons/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:48:56.720382Z",
-    "scraped_at": "2025-11-25T15:08:55.874714+00:00",
-    "restaurant_name": "Four Seasons",
-    "menu_file": "menus_html\\chefi-00050_four_seasons.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00050_four_seasons.html"
   },
   {
     "restaurant_id": "chefi-00052",
@@ -380,16 +310,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00053_Smith___Wollensky.html"
   },
   {
-    "restaurant_id": "chefi-00054",
-    "menu_url": "https://tom-s-restaurant.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:50:35.321796Z",
-    "scraped_at": "2025-11-25T15:09:10.546454+00:00",
-    "restaurant_name": "Tom's Restaurant",
-    "menu_file": "menus_html\\chefi-00054_toms_restaurant.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00054_toms_restaurant.html"
-  },
-  {
     "restaurant_id": "chefi-00056",
     "menu_url": "https://www.strombolipizzeria.com/#menu",
     "menu_format": "HTML",
@@ -400,26 +320,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00056_Stromboli_Pizza.html"
   },
   {
-    "restaurant_id": "chefi-00057",
-    "menu_url": "https://the-breslin.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:51:48.796563Z",
-    "scraped_at": "2025-11-25T15:09:16.859121+00:00",
-    "restaurant_name": "The Breslin",
-    "menu_file": "menus_html\\chefi-00057_the_breslin.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00057_the_breslin.html"
-  },
-  {
-    "restaurant_id": "chefi-00060",
-    "menu_url": "https://usa-brooklyn-delicatessen.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:53:04.067745Z",
-    "scraped_at": "2025-11-25T15:09:30.515388+00:00",
-    "restaurant_name": "USA Brooklyn Delicatessen",
-    "menu_file": "menus_html\\chefi-00060_usa_brooklyn_delicatessen.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00060_usa_brooklyn_delicatessen.html"
-  },
-  {
     "restaurant_id": "chefi-00063",
     "menu_url": "https://www.farinellanyc.com/Menu",
     "menu_format": "HTML",
@@ -428,16 +328,6 @@
     "restaurant_name": "Farinella",
     "menu_file": "menus_html\\chefi-00063_Farinella.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00063_Farinella.html"
-  },
-  {
-    "restaurant_id": "chefi-00064",
-    "menu_url": "https://murry-hill-diner.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:55:18.425040Z",
-    "scraped_at": "2025-11-25T15:09:39.672917+00:00",
-    "restaurant_name": "Murry Hill Diner",
-    "menu_file": "menus_html\\chefi-00064_murry_hill_diner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00064_murry_hill_diner.html"
   },
   {
     "restaurant_id": "chefi-00065",
@@ -466,8 +356,8 @@
     "inserted_at": "2025-11-21T16:56:55.349803Z",
     "scraped_at": "2025-11-21T16:56:55.349803Z",
     "restaurant_name": "Tony's",
-    "menu_file": "menus_html\\chefi-00067_Tony_s.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00067_Tony_s.html"
+    "menu_file": "menus_html\\chefi-00067_Tonys.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00067_Tonys.html"
   },
   {
     "restaurant_id": "chefi-00068",
@@ -568,26 +458,6 @@
     "restaurant_name": "Beso",
     "menu_file": "menus_html\\chefi-00080_Beso.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00080_Beso.html"
-  },
-  {
-    "restaurant_id": "chefi-00081",
-    "menu_url": "https://sergimmo-slumeria.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:03:36.555571Z",
-    "scraped_at": "2025-11-25T15:10:02.914253+00:00",
-    "restaurant_name": "Sergimmo Slumeria",
-    "menu_file": "menus_html\\chefi-00081_sergimmo_slumeria.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00081_sergimmo_slumeria.html"
-  },
-  {
-    "restaurant_id": "chefi-00082",
-    "menu_url": "https://zoob-zib-thai-authentic-noodle-bar.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:04:49.951645Z",
-    "scraped_at": "2025-11-25T15:10:10.390752+00:00",
-    "restaurant_name": "Zoob Zib Thai Authentic Noodle Bar",
-    "menu_file": "menus_html\\chefi-00082_zoob_zib_thai_authentic_noodle_bar.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00082_zoob_zib_thai_authentic_noodle_bar.html"
   },
   {
     "restaurant_id": "chefi-00083",
@@ -880,16 +750,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00120_Bosino.html"
   },
   {
-    "restaurant_id": "chefi-00121",
-    "menu_url": "https://katz-s-delicatessen.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:27:04.645687Z",
-    "scraped_at": "2025-11-25T15:12:34.450344+00:00",
-    "restaurant_name": "Katz's Delicatessen",
-    "menu_file": "menus_html\\chefi-00121_katzs_delicatessen.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00121_katzs_delicatessen.html"
-  },
-  {
     "restaurant_id": "chefi-00122",
     "menu_url": "https://www.google.com/maps/reserve/v/dine/c/vY_dszAAmgA?source=pa&opi=89978449&hl=en-PK&gei=9qAgabryAuPjseMPodHc2QE&sourceurl=https://www.google.com/search?q%3D%2522Mercato%2522%2B%2522352,%2BWest%2B39th%2BStreet,%2BNew%2BYork,%2B10018%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9901191787690ede%26source%3Dhp%26ei%3D7aAgaaauHpWjhbIPnJ-h8Ak%26iflsig%3DAOw8s4IAAAAAaSCu_ec2PuFZrtasswTG5wjx08aD2i0l%26ved%3D0ahUKEwjm2L_84YORAxWVUUEAHZxPCJ4Q4dUDCA4%26uact%3D5%26oq%3D%2522Mercato%2522%2B%2522352,%2BWest%2B39th%2BStreet,%2BNew%2BYork,%2B10018%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IkAiTWVyY2F0byIgIjM1MiwgV2VzdCAzOXRoIFN0cmVldCwgTmV3IFlvcmssIDEwMDE4IiBOZXcgWW9yayBtZW51SPYCUABYzwJwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA%26sclient%3Dgws-wiz",
     "menu_format": "HTML",
@@ -940,26 +800,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00127_Limosneros.html"
   },
   {
-    "restaurant_id": "chefi-00128",
-    "menu_url": "https://polash.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:30:43.116002Z",
-    "scraped_at": "2025-11-25T15:12:57.027661+00:00",
-    "restaurant_name": "Polash",
-    "menu_file": "menus_html\\chefi-00128_polash.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00128_polash.html"
-  },
-  {
-    "restaurant_id": "chefi-00129",
-    "menu_url": "https://ashbox-cafe.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:31:49.238035Z",
-    "scraped_at": "2025-11-25T15:13:03.694293+00:00",
-    "restaurant_name": "Ashbox Cafe",
-    "menu_file": "menus_html\\chefi-00129_ashbox_cafe.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00129_ashbox_cafe.html"
-  },
-  {
     "restaurant_id": "chefi-00130",
     "menu_url": "https://whereyoueat.com/",
     "menu_format": "HTML",
@@ -968,16 +808,6 @@
     "restaurant_name": "Lighthouse",
     "menu_file": "menus_html\\chefi-00130_lighthouse.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00130_Lighthouse.html"
-  },
-  {
-    "restaurant_id": "chefi-00131",
-    "menu_url": "https://briciola-pizza-bar.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:34:02.422428Z",
-    "scraped_at": "2025-11-25T15:13:26.945531+00:00",
-    "restaurant_name": "Briciola Pizza Bar",
-    "menu_file": "menus_html\\chefi-00131_briciola_pizza_bar.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00131_briciola_pizza_bar.html"
   },
   {
     "restaurant_id": "chefi-00133",
@@ -1000,26 +830,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00134_akino.html"
   },
   {
-    "restaurant_id": "chefi-00135",
-    "menu_url": "https://taiwanese-gourmet.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:35:58.325869Z",
-    "scraped_at": "2025-11-25T15:13:45.742602+00:00",
-    "restaurant_name": "Taiwanese Gourmet",
-    "menu_file": "menus_html\\chefi-00135_taiwanese_gourmet.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00135_taiwanese_gourmet.html"
-  },
-  {
-    "restaurant_id": "chefi-00136",
-    "menu_url": "https://lin-taiwanese-cuisine.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:36:36.828796Z",
-    "scraped_at": "2025-11-25T15:13:52.013453+00:00",
-    "restaurant_name": "Lin Taiwanese Cuisine",
-    "menu_file": "menus_html\\chefi-00136_lin_taiwanese_cuisine.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00136_lin_taiwanese_cuisine.html"
-  },
-  {
     "restaurant_id": "chefi-00137",
     "menu_url": "https://rinconmelanianyc.com/long-island-city-rincon-melania-food-menu",
     "menu_format": "HTML",
@@ -1038,16 +848,6 @@
     "restaurant_name": "Tangra Asian Fusion",
     "menu_file": "menus_html\\chefi-00138_tangra_asian_fusion.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00138_Tangra_Asian_Fusion.html"
-  },
-  {
-    "restaurant_id": "chefi-00139",
-    "menu_url": "https://philomena-s-pizza.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:38:32.061089Z",
-    "scraped_at": "2025-11-25T15:14:10.289229+00:00",
-    "restaurant_name": "Philomena's Pizza",
-    "menu_file": "menus_html\\chefi-00139_philomenas_pizza.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00139_philomenas_pizza.html"
   },
   {
     "restaurant_id": "chefi-00140",
@@ -1120,16 +920,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00146_ozu.html"
   },
   {
-    "restaurant_id": "chefi-00147",
-    "menu_url": "https://www.google.com/search?sca_esv=9901191787690ede&q=%22Clark%27s+Restaurant%22+%2280,+Clark+Street,+11201%22+New+York+menu&udm=2&source=univ&fir=usrJ7fG5sWoy9M%252CK5yFO3NQYw-_-M%252C_%253BxTsFMcwYjqCDsM%252CK5yFO3NQYw-_-M%252C_%253Bf5fAFJJ4nCqw0M%252CK5yFO3NQYw-_-M%252C_%253B1s4bgph5QIoUvM%252CK5yFO3NQYw-_-M%252C_%253BbOhP4-CalSFXsM%252CK5yFO3NQYw-_-M%252C_%253BMTG8zEp6RiGApM%252CK5yFO3NQYw-_-M%252C_%253BcDDTU5zLLEgS4M%252CK5yFO3NQYw-_-M%252C_%253BQEHGatemlibGqM%252CK5yFO3NQYw-_-M%252C_%253By-p2LpN7nCWzmM%252CK5yFO3NQYw-_-M%252C_%253BL3SqwH8nYOybfM%252CK5yFO3NQYw-_-M%252C_&usg=AI4_-kS9wUY3FesrsoqhHNTVZyVSnkgz3Q&sa=X&ved=2ahUKEwjYntLC5YORAxWfS2cHHYjKE9YQ420oAHoECFMQBQ",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:43:07.168144Z",
-    "scraped_at": "2025-11-25T15:14:58.937317+00:00",
-    "restaurant_name": "Clark's Restaurant",
-    "menu_file": "menus_html\\chefi-00147_clarks_restaurant.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00147_Clarks_Restaurant.html"
-  },
-  {
     "restaurant_id": "chefi-00148",
     "menu_url": "http://www.sabaspizzanyc.com/#menu-section",
     "menu_format": "HTML",
@@ -1170,16 +960,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00152_wau.html"
   },
   {
-    "restaurant_id": "chefi-00153",
-    "menu_url": "https://rudraks.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:45:57.440492Z",
-    "scraped_at": "2025-11-25T15:15:28.015559+00:00",
-    "restaurant_name": "Rudraks",
-    "menu_file": "menus_html\\chefi-00153_rudraks.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00153_rudraks.html"
-  },
-  {
     "restaurant_id": "chefi-00155",
     "menu_url": "https://jingfongny.com/#",
     "menu_format": "HTML",
@@ -1210,16 +990,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00157_Bohemian_Spirit_Restaurant.html"
   },
   {
-    "restaurant_id": "chefi-00158",
-    "menu_url": "https://del-frisco-s-double-eagle-steakhouse.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:48:12.418348Z",
-    "scraped_at": "2025-11-25T15:15:53.369729+00:00",
-    "restaurant_name": "Del Frisco's Double Eagle Steakhouse",
-    "menu_file": "menus_html\\chefi-00158_del_friscos_double_eagle_steakhouse.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00158_del_friscos_double_eagle_steakhouse.html"
-  },
-  {
     "restaurant_id": "chefi-00160",
     "menu_url": "https://places.singleplatform.com/parkside-lounge/menu",
     "menu_format": "HTML",
@@ -1238,26 +1008,6 @@
     "restaurant_name": "Giardino D'Oro",
     "menu_file": "menus_html\\chefi-00161_giardino_doro.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00161_Giardino_DOro.html"
-  },
-  {
-    "restaurant_id": "chefi-00163",
-    "menu_url": "https://raj-s-indian-kitchen.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:51:02.696856Z",
-    "scraped_at": "2025-11-25T15:16:21.672446+00:00",
-    "restaurant_name": "Raj's Indian Kitchen",
-    "menu_file": "menus_html\\chefi-00163_rajs_indian_kitchen.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00163_rajs_indian_kitchen.html"
-  },
-  {
-    "restaurant_id": "chefi-00165",
-    "menu_url": "https://centric.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:52:01.023079Z",
-    "scraped_at": "2025-11-25T15:16:30.327834+00:00",
-    "restaurant_name": "Centric",
-    "menu_file": "menus_html\\chefi-00165_centric.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00165_centric.html"
   },
   {
     "restaurant_id": "chefi-00167",
@@ -1320,16 +1070,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00173_ROKA_Modern_Mediterranean.html"
   },
   {
-    "restaurant_id": "chefi-00176",
-    "menu_url": "https://namkeen.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:58:51.801535Z",
-    "scraped_at": "2025-11-25T15:17:10.686957+00:00",
-    "restaurant_name": "Namkeen",
-    "menu_file": "menus_html\\chefi-00176_namkeen.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00176_namkeen.html"
-  },
-  {
     "restaurant_id": "chefi-00177",
     "menu_url": "http://www.jean-georgesrestaurant.com/jean-georges/menus/",
     "menu_format": "HTML",
@@ -1370,16 +1110,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00180_maman.html"
   },
   {
-    "restaurant_id": "chefi-00181",
-    "menu_url": "https://paulie-gee-s.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:01:36.020145Z",
-    "scraped_at": "2025-11-25T15:17:29.141911+00:00",
-    "restaurant_name": "Paulie Gee's",
-    "menu_file": "menus_html\\chefi-00181_paulie_gees.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00181_paulie_gees.html"
-  },
-  {
     "restaurant_id": "chefi-00182",
     "menu_url": "https://marseillenyc.com/menus/",
     "menu_format": "HTML",
@@ -1389,27 +1119,7 @@
     "menu_file": "menus_html\\chefi-00182_marseille.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00182_Marseille.html"
   },
-  {
-    "restaurant_id": "chefi-00183",
-    "menu_url": "https://westway-diner.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:02:56.093096Z",
-    "scraped_at": "2025-11-25T15:17:41.046857+00:00",
-    "restaurant_name": "Westway Diner",
-    "menu_file": "menus_html\\chefi-00183_westway_diner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00183_westway_diner.html"
-  },
-  {
-    "restaurant_id": "chefi-00184",
-    "menu_url": "https://mama-mia-44sw.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:03:29.189133Z",
-    "scraped_at": "2025-11-25T15:17:47.938167+00:00",
-    "restaurant_name": "Mama Mia 44SW",
-    "menu_file": "menus_html\\chefi-00184_mama_mia_44sw.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00184_mama_mia_44sw.html"
-  },
-  {
+    {
     "restaurant_id": "chefi-00185",
     "menu_url": "https://places.singleplatform.com/austin-ale-house/menu",
     "menu_format": "HTML",
@@ -1420,26 +1130,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00185_austin_ale_house.html"
   },
   {
-    "restaurant_id": "chefi-00186",
-    "menu_url": "https://dani-s-house-of-pizza.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:04:10.459247Z",
-    "scraped_at": "2025-11-25T15:17:59.906787+00:00",
-    "restaurant_name": "Dani's House of Pizza",
-    "menu_file": "menus_html\\chefi-00186_danis_house_of_pizza.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00186_danis_house_of_pizza.html"
-  },
-  {
-    "restaurant_id": "chefi-00187",
-    "menu_url": "https://the-village-diner.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:04:32.958626Z",
-    "scraped_at": "2025-11-25T15:18:07.109889+00:00",
-    "restaurant_name": "The Village Diner",
-    "menu_file": "menus_html\\chefi-00187_the_village_diner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00187_the_village_diner.html"
-  },
-  {
     "restaurant_id": "chefi-00189",
     "menu_url": "http://places.singleplatform.com/calexico-carne-asada/menu",
     "menu_format": "HTML",
@@ -1448,16 +1138,6 @@
     "restaurant_name": "Calexico",
     "menu_file": "menus_html\\chefi-00189_calexico.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00189_Calexico.html"
-  },
-  {
-    "restaurant_id": "chefi-00190",
-    "menu_url": "https://gramercy-cafe.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:06:05.842471Z",
-    "scraped_at": "2025-11-25T15:18:25.644617+00:00",
-    "restaurant_name": "Gramercy Cafe",
-    "menu_file": "menus_html\\chefi-00190_gramercy_cafe.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00190_gramercy_cafe.html"
   },
   {
     "restaurant_id": "chefi-00191",
@@ -1570,16 +1250,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00201_French_Roast.html"
   },
   {
-    "restaurant_id": "chefi-00202",
-    "menu_url": "https://poulet-sans-t-te.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:11:50.964837Z",
-    "scraped_at": "2025-11-25T15:20:00.875871+00:00",
-    "restaurant_name": "Poulet Sans Tête",
-    "menu_file": "menus_html\\chefi-00202_poulet_sans_t_te.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00202_poulet_sans_t_te.html"
-  },
-  {
     "restaurant_id": "chefi-00203",
     "menu_url": "http://places.singleplatform.com/chote-nawab/menu",
     "menu_format": "HTML",
@@ -1608,16 +1278,6 @@
     "restaurant_name": "Diner 24",
     "menu_file": "menus_html\\chefi-00205_diner_24.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00205_Diner_24.html"
-  },
-  {
-    "restaurant_id": "chefi-00206",
-    "menu_url": "https://fred-s.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:13:54.101431Z",
-    "scraped_at": "2025-11-25T15:21:02.140574+00:00",
-    "restaurant_name": "Fred's",
-    "menu_file": "menus_html\\chefi-00206_freds.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00206_freds.html"
   },
   {
     "restaurant_id": "chefi-00207",
@@ -1730,16 +1390,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00219_Bareburger.html"
   },
   {
-    "restaurant_id": "chefi-00220",
-    "menu_url": "https://kashmir-9.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:20:48.830686Z",
-    "scraped_at": "2025-11-25T15:21:56.969422+00:00",
-    "restaurant_name": "Kashmir 9",
-    "menu_file": "menus_html\\chefi-00220_kashmir_9.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00220_kashmir_9.html"
-  },
-  {
     "restaurant_id": "chefi-00221",
     "menu_url": "http://places.singleplatform.com/marco-polo-ristorante/menu?ref=google",
     "menu_format": "HTML",
@@ -1750,16 +1400,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00221_Marco_Polo_Ristorante.html"
   },
   {
-    "restaurant_id": "chefi-00223",
-    "menu_url": "https://waverly-diner.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:25:06.028658Z",
-    "scraped_at": "2025-11-25T15:22:17.266322+00:00",
-    "restaurant_name": "Waverly Diner",
-    "menu_file": "menus_html\\chefi-00223_waverly_diner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00223_waverly_diner.html"
-  },
-  {
     "restaurant_id": "chefi-00224",
     "menu_url": "http://places.singleplatform.com/chelsea-square/menu?ref=google",
     "menu_format": "HTML",
@@ -1768,26 +1408,6 @@
     "restaurant_name": "Chelsea Square Restaurant",
     "menu_file": "menus_html\\chefi-00224_chelsea_square_restaurant.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00224_Chelsea_Square_Restaurant.html"
-  },
-  {
-    "restaurant_id": "chefi-00225",
-    "menu_url": "https://moran-s.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:26:15.786546Z",
-    "scraped_at": "2025-11-25T15:22:25.577843+00:00",
-    "restaurant_name": "Moran's",
-    "menu_file": "menus_html\\chefi-00225_morans.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00225_morans.html"
-  },
-  {
-    "restaurant_id": "chefi-00226",
-    "menu_url": "https://donnatella.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:26:47.136731Z",
-    "scraped_at": "2025-11-25T15:22:33.806567+00:00",
-    "restaurant_name": "Donnatella",
-    "menu_file": "menus_html\\chefi-00226_donnatella.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00226_donnatella.html"
   },
   {
     "restaurant_id": "chefi-00227",
@@ -1880,36 +1500,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00265_aldea.html"
   },
   {
-    "restaurant_id": "chefi-00291",
-    "menu_url": "https://paul-s-da-burger-joint.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:00:28.025721Z",
-    "scraped_at": "2025-11-25T15:23:18.047425+00:00",
-    "restaurant_name": "Paul's \"Da Burger Joint\"",
-    "menu_file": "menus_html\\chefi-00291_pauls_da_burger_joint.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00291_pauls_da_burger_joint.html"
-  },
-  {
-    "restaurant_id": "chefi-00292",
-    "menu_url": "https://mr-keke.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:00:56.835723Z",
-    "scraped_at": "2025-11-25T15:23:24.718711+00:00",
-    "restaurant_name": "Mr. Keke",
-    "menu_file": "menus_html\\chefi-00292_mr_keke.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00292_mr_keke.html"
-  },
-  {
-    "restaurant_id": "chefi-00293",
-    "menu_url": "https://koto-sushi-steak.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:01:20.705610Z",
-    "scraped_at": "2025-11-25T15:23:32.953142+00:00",
-    "restaurant_name": "Koto Sushi & Steak",
-    "menu_file": "menus_html\\chefi-00293_koto_sushi_steak.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00293_koto_sushi_steak.html"
-  },
-  {
     "restaurant_id": "chefi-00294",
     "menu_url": "https://places.singleplatform.com/recette/menu",
     "menu_format": "HTML",
@@ -1920,16 +1510,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00294_recette.html"
   },
   {
-    "restaurant_id": "chefi-00295",
-    "menu_url": "https://6-restaurant.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:02:13.145741Z",
-    "scraped_at": "2025-11-25T15:23:43.125174+00:00",
-    "restaurant_name": "6 Restaurant",
-    "menu_file": "menus_html\\chefi-00295_6_restaurant.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00295_6_restaurant.html"
-  },
-  {
     "restaurant_id": "chefi-00296",
     "menu_url": "https://places.singleplatform.com/mizu/menu",
     "menu_format": "HTML",
@@ -1938,16 +1518,6 @@
     "restaurant_name": "Mizu",
     "menu_file": "menus_html\\chefi-00296_mizu.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00296_mizu.html"
-  },
-  {
-    "restaurant_id": "chefi-00297",
-    "menu_url": "https://brooklyn-burgers-beer.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:02:59.794223Z",
-    "scraped_at": "2025-11-25T15:23:53.999900+00:00",
-    "restaurant_name": "Brooklyn Burgers & Beer",
-    "menu_file": "menus_html\\chefi-00297_brooklyn_burgers_beer.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00297_brooklyn_burgers_beer.html"
   },
   {
     "restaurant_id": "chefi-00298",
@@ -1978,26 +1548,6 @@
     "restaurant_name": "Enoteca Maria",
     "menu_file": "menus_html\\chefi-00300_enoteca_maria.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00300_enoteca_maria.html"
-  },
-  {
-    "restaurant_id": "chefi-00301",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/IQtpwyd83Io?source=pa&opi=89978449&hl=en-PK&gei=v7cgadnhPI2QseMP3PvxkQ0&sourceurl=https://www.google.com/search?q%3D%2522Caf%25C3%25A9%2BMars%2522%2B%2522272,%2B3rd%2BAvenue,%2B11215%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3DtrcgabS7Gb-NseMPwpyI0AU%26iflsig%3DAOw8s4IAAAAAaSDFxmxBOUoUBFwri7VxDDLTOyCYTszu%26ved%3D0ahUKEwi07uzZ94ORAxW_RmwGHUIOAloQ4dUDCA4%26uact%3D5%26oq%3D%2522Caf%25C3%25A9%2BMars%2522%2B%2522272,%2B3rd%2BAvenue,%2B11215%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IjMiQ2Fmw6kgTWFycyIgIjI3MiwgM3JkIEF2ZW51ZSwgMTEyMTUiIE5ldyBZb3JrIG1lbnVI4QJQAFiZAnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:04:37.469727Z",
-    "scraped_at": "2025-11-25T15:24:08.281071+00:00",
-    "restaurant_name": "Café Mars",
-    "menu_file": "menus_html\\chefi-00301_caf_mars.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00301_caf_mars.html"
-  },
-  {
-    "restaurant_id": "chefi-00302",
-    "menu_url": "https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&q=chat+n%27+chew+new+york+address&ludocid=2230237929311201275&sa=X&ved=2ahUKEwikx4bu94ORAxVCS2wGHbHeE00Q6BN6BAgqEAI",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:05:12.421986Z",
-    "scraped_at": "2025-11-25T15:24:10.235376+00:00",
-    "restaurant_name": "Chat n Chew",
-    "menu_file": "menus_html\\chefi-00302_chat_n_chew.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00302_Chat_n_Chew.html"
   },
   {
     "restaurant_id": "chefi-00304",
@@ -2110,16 +1660,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00318_Tacqueria_86.html"
   },
   {
-    "restaurant_id": "chefi-00319",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/aAeqQk_Gzuo?source=pa&opi=89978449&hl=en-PK&gei=XbogaafnK7CDhbIP__72sAc&sourceurl=https://www.google.com/search?q%3D%2522Calaveras%2BCorner%2522%2B%2522936,%2BAmsterdam%2BAvenue,%2BNew%2BYork,%2BNY,%2B10025%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3DWrogafXzHPa7seMP9daz0Ao%26iflsig%3DAOw8s4IAAAAAaSDIauf10ikxFT3ubnLvnGqaSdpkGf9e%26ved%3D0ahUKEwj1iJyc-oORAxX2XWwGHXXrDKoQ4dUDCA4%26uact%3D5%26oq%3D%2522Calaveras%2BCorner%2522%2B%2522936,%2BAmsterdam%2BAvenue,%2BNew%2BYork,%2BNY,%2B10025%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6Ik0iQ2FsYXZlcmFzIENvcm5lciIgIjkzNiwgQW1zdGVyZGFtIEF2ZW51ZSwgTmV3IFlvcmssIE5ZLCAxMDAyNSIgTmV3IFlvcmsgbWVudUj9A1AAWLwDcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:15:52.902598Z",
-    "scraped_at": "2025-11-25T15:26:30.875476+00:00",
-    "restaurant_name": "Calaveras Corner",
-    "menu_file": "menus_html\\chefi-00319_calaveras_corner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00319_Calaveras_Corner.html"
-  },
-  {
     "restaurant_id": "chefi-00320",
     "menu_url": "https://places.singleplatform.com/plum/menu",
     "menu_format": "HTML",
@@ -2160,26 +1700,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00323_dim_sum_palace.html"
   },
   {
-    "restaurant_id": "chefi-00324",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/zETpyaAC_o4?source=pa&opi=89978449&hl=en-PK&gei=IrwgacWMEYirseMPwJq3oQs&sourceurl=https://www.google.com/search?q%3D%2522Kissaki%2522%2B%2522New%2BYork,%2BNY%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3DGbwgafraH7q3i-gPmteM2Qg%26iflsig%3DAOw8s4IAAAAAaSDKKazZ2-QPLW5me8kDMtx2zOx9DQOL%26ved%3D0ahUKEwi6y7Hx-4ORAxW62wIHHZorI4sQ4dUDCA4%26uact%3D5%26oq%3D%2522Kissaki%2522%2B%2522New%2BYork,%2BNY%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IiYiS2lzc2FraSIgIk5ldyBZb3JrLCBOWSIgTmV3IFlvcmsgbWVudUjkAlAAWIwCcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:23:18.715964Z",
-    "scraped_at": "2025-11-25T15:26:44.995819+00:00",
-    "restaurant_name": "Kissaki",
-    "menu_file": "menus_html\\chefi-00324_kissaki.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00324_Kissaki.html"
-  },
-  {
-    "restaurant_id": "chefi-00325",
-    "menu_url": "https://cozy-soup-n-burger.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:23:42.164798Z",
-    "scraped_at": "2025-11-25T15:26:51.155667+00:00",
-    "restaurant_name": "Cozy Soup 'n' Burger",
-    "menu_file": "menus_html\\chefi-00325_cozy_soup_n_burger.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00325_cozy_soup_n_burger.html"
-  },
-  {
     "restaurant_id": "chefi-00327",
     "menu_url": "https://places.singleplatform.com/the-black-ant/menu",
     "menu_format": "HTML",
@@ -2198,16 +1718,6 @@
     "restaurant_name": "Le Souk New York - Restaurant & Hookah Lounge",
     "menu_file": "menus_html\\chefi-00328_le_souk_new_york_restaurant_hookah_lounge.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00328_le_souk_new_york_restaurant_hookah_lounge.html"
-  },
-  {
-    "restaurant_id": "chefi-00329",
-    "menu_url": "https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&q=dos+caminos+%E2%80%94+soho+address&ludocid=11187466089704044779&sa=X&ved=2ahUKEwiT5P69_IORAxWLwjgGHbFuM6kQ6BN6BAguEAI",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:25:55.155433Z",
-    "scraped_at": "2025-11-25T15:27:00.088665+00:00",
-    "restaurant_name": "Dos Caminos",
-    "menu_file": "menus_html\\chefi-00329_dos_caminos.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00329_Dos_Caminos.html"
   },
   {
     "restaurant_id": "chefi-00330",
@@ -2360,26 +1870,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00344_Upside_Pizza.html"
   },
   {
-    "restaurant_id": "chefi-00345",
-    "menu_url": "https://jack-s-wife-freda.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:34:01.396056Z",
-    "scraped_at": "2025-11-25T15:28:43.577643+00:00",
-    "restaurant_name": "Jack’s Wife Freda",
-    "menu_file": "menus_html\\chefi-00345_jacks_wife_freda.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00345_jacks_wife_freda.html"
-  },
-  {
-    "restaurant_id": "chefi-00346",
-    "menu_url": "https://ed-s-lobster-bar.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:34:33.259317Z",
-    "scraped_at": "2025-11-25T15:28:50.577904+00:00",
-    "restaurant_name": "Ed's Lobster Bar",
-    "menu_file": "menus_html\\chefi-00346_eds_lobster_bar.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00346_eds_lobster_bar.html"
-  },
-  {
     "restaurant_id": "chefi-00347",
     "menu_url": "https://www.thaidiner.com/menu",
     "menu_format": "HTML",
@@ -2398,16 +1888,6 @@
     "restaurant_name": "Piacere",
     "menu_file": "menus_html\\chefi-00348_piacere.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00348_Piacere.html"
-  },
-  {
-    "restaurant_id": "chefi-00349",
-    "menu_url": "https://ki-mi-ka.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:36:03.056704Z",
-    "scraped_at": "2025-11-25T15:29:13.304680+00:00",
-    "restaurant_name": "Ki Mi Ka",
-    "menu_file": "menus_html\\chefi-00349_ki_mi_ka.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00349_ki_mi_ka.html"
   },
   {
     "restaurant_id": "chefi-00350",
