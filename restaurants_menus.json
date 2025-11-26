@@ -160,16 +160,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00025_Freemans.html"
   },
   {
-    "restaurant_id": "chefi-00026",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/cf9lj5IF4qE?source=pa&opi=89978449&hl=en-PK&gei=CZUgac3NE560i-gP3KW72Ag&sourceurl=https://www.google.com/search?q%3D%2522Aurora%2522%2B%252270,%2BGrand%2BStreet,%2BBrooklyn,%2BNY,%2B11249%2522%2BNew%2BYork%2Bmenu%26sca_esv%3Daaa09739d5691e40%26source%3Dhp%26ei%3DBZUgacP_Bq6YseMP44nZ-QU%26iflsig%3DAOw8s4IAAAAAaSCjFenzAi5byuBQcjL7OgtAb6yPreAs%26ved%3D0ahUKEwiDlvXO1oORAxUuTGwGHeNENl8Q4dUDCA4%26uact%3D5%26oq%3D%2522Aurora%2522%2B%252270,%2BGrand%2BStreet,%2BBrooklyn,%2BNY,%2B11249%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6Ij4iQXVyb3JhIiAiNzAsIEdyYW5kIFN0cmVldCwgQnJvb2tseW4sIE5ZLCAxMTI0OSIgTmV3IFlvcmsgbWVudUiKA1AAWNICcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:36:32.024244Z",
-    "scraped_at": "2025-11-21T16:36:32.024244Z",
-    "restaurant_name": "Aurora",
-    "menu_file": "menus_html\\chefi-00026_Aurora.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00026_Aurora.html"
-  },
-  {
     "restaurant_id": "chefi-00028",
     "menu_url": "http://places.singleplatform.com/giovanni-venticinque/menu?ref=google",
     "menu_format": "HTML",
@@ -306,8 +296,8 @@
     "inserted_at": "2025-11-21T16:50:11.001122Z",
     "scraped_at": "2025-11-21T16:50:11.001122Z",
     "restaurant_name": "Smith & Wollensky",
-    "menu_file": "menus_html\\chefi-00053_Smith___Wollensky.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00053_Smith___Wollensky.html"
+    "menu_file": "menus_html\\chefi-00053_Smith_&_Wollensky.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00053_Smith_&_Wollensky.html"
   },
   {
     "restaurant_id": "chefi-00056",
@@ -348,16 +338,6 @@
     "restaurant_name": "ammos estiatorio",
     "menu_file": "menus_html\\chefi-00066_ammos_estiatorio.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00066_ammos_estiatorio.html"
-  },
-  {
-    "restaurant_id": "chefi-00067",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/aa8Ma8Q6_tQ?source=pa&opi=89978449&hl=en-PK&gei=0Jkgac2XJP-hseMPreTQ-Qo&sourceurl=https://www.google.com/search?q%3D%2522Tony%27s%2522%2B%2522147,%2BWest%2B43rd%2BStreet,%2BNew%2BYork,%2BNY%2522%2BNew%2BYork%2Bmenu%26sca_esv%3Daaa09739d5691e40%26source%3Dhp%26ei%3DxpkgaYD2DNmPi-gP2cOLoQU%26iflsig%3DAOw8s4IAAAAAaSCn1uTN_qRlnwqePDxt5l0OYvOHImx6%26ved%3D0ahUKEwiA8aKT24ORAxXZxwIHHdnhIlQQ4dUDCA4%26uact%3D5%26oq%3D%2522Tony%27s%2522%2B%2522147,%2BWest%2B43rd%2BStreet,%2BNew%2BYork,%2BNY%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IjwiVG9ueSdzIiAiMTQ3LCBXZXN0IDQzcmQgU3RyZWV0LCBOZXcgWW9yaywgTlkiIE5ldyBZb3JrIG1lbnVIsgdQAFjfBnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T16:56:55.349803Z",
-    "scraped_at": "2025-11-21T16:56:55.349803Z",
-    "restaurant_name": "Tony's",
-    "menu_file": "menus_html\\chefi-00067_Tonys.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00067_Tonys.html"
   },
   {
     "restaurant_id": "chefi-00068",
@@ -416,8 +396,8 @@
     "inserted_at": "2025-11-21T17:01:23.099406Z",
     "scraped_at": "2025-11-21T17:01:23.099406Z",
     "restaurant_name": "Melba's",
-    "menu_file": "menus_html\\chefi-00076_Melba_s.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00076_Melba_s.html"
+    "menu_file": "menus_html\\chefi-00076_Melbas.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00076_Melbas.html"
   },
   {
     "restaurant_id": "chefi-00077",
@@ -446,8 +426,8 @@
     "inserted_at": "2025-11-21T17:02:45.967756Z",
     "scraped_at": "2025-11-21T17:02:45.967756Z",
     "restaurant_name": "Little Ruby’s Cafe",
-    "menu_file": "menus_html\\chefi-00079_Little_Ruby_s_Cafe.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00079_Little_Ruby_s_Cafe.html"
+    "menu_file": "menus_html\\chefi-00079_Little_Ruby’s_Cafe.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00079_Little_Rubys_Cafe.html"
   },
   {
     "restaurant_id": "chefi-00080",
@@ -506,8 +486,8 @@
     "inserted_at": "2025-11-21T17:09:48.842328Z",
     "scraped_at": "2025-11-21T17:09:48.842328Z",
     "restaurant_name": "Grimaldi's Pizzeria",
-    "menu_file": "menus_html\\chefi-00089_Grimaldi_s_Pizzeria.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00089_Grimaldi_s_Pizzeria.html"
+    "menu_file": "menus_html\\chefi-00089_Grimaldis_Pizzeria.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00089_Grimaldis_Pizzeria.html"
   },
   {
     "restaurant_id": "chefi-00091",
@@ -566,8 +546,8 @@
     "inserted_at": "2025-11-21T17:14:53.099003Z",
     "scraped_at": "2025-11-21T17:14:53.099003Z",
     "restaurant_name": "Skinny's Cantina",
-    "menu_file": "menus_html\\chefi-00099_Skinny_s_Cantina.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00099_Skinny_s_Cantina.html"
+    "menu_file": "menus_html\\chefi-00099_Skinnys_Cantina.html",
+    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00099_Skinnys_Cantina.html"
   },
   {
     "restaurant_id": "chefi-00100",
@@ -588,16 +568,6 @@
     "restaurant_name": "Hunan Park",
     "menu_file": "menus_html\\chefi-00101_hunan_park.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00101_hunan_park.html"
-  },
-  {
-    "restaurant_id": "chefi-00102",
-    "menu_url": "https://www.google.com/search?sca_esv=9901191787690ede&q=The+Cornwall&ludocid=7536267950723318048&lsig=AB86z5VI1HQu1njc-Zp0W8lMltct&sa=X&ved=2ahUKEwiItLjS34ORAxUhSWwGHWMYCg8Q8G0oAHoECDoQAQ",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:16:51.286278Z",
-    "scraped_at": "2025-11-25T15:11:18.013190+00:00",
-    "restaurant_name": "City Diner",
-    "menu_file": "menus_html\\chefi-00102_city_diner.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00102_City_Diner.html"
   },
   {
     "restaurant_id": "chefi-00103",
@@ -720,16 +690,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00115_Laut.html"
   },
   {
-    "restaurant_id": "chefi-00116",
-    "menu_url": "https://www.google.com/search?sca_esv=9901191787690ede&q=vanessa%27s+dumpling+house+new+york+address&ludocid=12657318785565922309&sa=X&ved=2ahUKEwjGo5Cm4YORAxWzVmwGHWuHFooQ6BN6BAgsEAI",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:24:21.864064Z",
-    "scraped_at": "2025-11-25T15:12:09.000819+00:00",
-    "restaurant_name": "Vanessa's Dumpling House",
-    "menu_file": "menus_html\\chefi-00116_vanessas_dumpling_house.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00116_Vanessas_Dumpling_House.html"
-  },
-  {
     "restaurant_id": "chefi-00119",
     "menu_url": "http://places.singleplatform.com/miss-favela/menu?ref=google",
     "menu_format": "HTML",
@@ -750,16 +710,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00120_Bosino.html"
   },
   {
-    "restaurant_id": "chefi-00122",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/vY_dszAAmgA?source=pa&opi=89978449&hl=en-PK&gei=9qAgabryAuPjseMPodHc2QE&sourceurl=https://www.google.com/search?q%3D%2522Mercato%2522%2B%2522352,%2BWest%2B39th%2BStreet,%2BNew%2BYork,%2B10018%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9901191787690ede%26source%3Dhp%26ei%3D7aAgaaauHpWjhbIPnJ-h8Ak%26iflsig%3DAOw8s4IAAAAAaSCu_ec2PuFZrtasswTG5wjx08aD2i0l%26ved%3D0ahUKEwjm2L_84YORAxWVUUEAHZxPCJ4Q4dUDCA4%26uact%3D5%26oq%3D%2522Mercato%2522%2B%2522352,%2BWest%2B39th%2BStreet,%2BNew%2BYork,%2B10018%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IkAiTWVyY2F0byIgIjM1MiwgV2VzdCAzOXRoIFN0cmVldCwgTmV3IFlvcmssIDEwMDE4IiBOZXcgWW9yayBtZW51SPYCUABYzwJwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:27:21.286505Z",
-    "scraped_at": "2025-11-25T15:12:37.922072+00:00",
-    "restaurant_name": "Mercato",
-    "menu_file": "menus_html\\chefi-00122_mercato.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00122_Mercato.html"
-  },
-  {
     "restaurant_id": "chefi-00123",
     "menu_url": "https://www.google.com/search?sca_esv=9901191787690ede&q=blue+smoke+%E2%80%94+battery+park+address&ludocid=3033477073232252074&sa=X&ved=2ahUKEwjln-yI4oORAxUYS3ADHfFeHPIQ6BN6BAgvEAI",
     "menu_format": "HTML",
@@ -768,16 +718,6 @@
     "restaurant_name": "Blue Smoke",
     "menu_file": "menus_html\\chefi-00123_blue_smoke.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00123_Blue_Smoke.html"
-  },
-  {
-    "restaurant_id": "chefi-00124",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/-9E-T7aQ15A?source=pa&opi=89978449&hl=en-PK&gei=L6Egae-tOMWTseMPmY63aA&sourceurl=https://www.google.com/search?q%3D%2522Banc%2522%2B%2522431,%2B3rd%2BAvenue,%2B10016%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9901191787690ede%26source%3Dhp%26ei%3DJqEgaeG8J8qP-d8Pr6_QsQo%26iflsig%3DAOw8s4IAAAAAaSCvNmr3KW93KFJX1oLvI2QyLqSVAGGP%26ved%3D0ahUKEwjh59-X4oORAxXKR_4FHa8XNKYQ4dUDCA4%26uact%3D5%26oq%3D%2522Banc%2522%2B%2522431,%2B3rd%2BAvenue,%2B10016%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6Ii0iQmFuYyIgIjQzMSwgM3JkIEF2ZW51ZSwgMTAwMTYiIE5ldyBZb3JrIG1lbnVIwQVQAFiYBXAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:28:18.275951Z",
-    "scraped_at": "2025-11-25T15:12:43.035104+00:00",
-    "restaurant_name": "Banc",
-    "menu_file": "menus_html\\chefi-00124_banc.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00124_Banc.html"
   },
   {
     "restaurant_id": "chefi-00125",
@@ -868,16 +808,6 @@
     "restaurant_name": "Mamajuana Cafe",
     "menu_file": "menus_html\\chefi-00141_mamajuana_cafe.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00141_Mamajuana_Cafe.html"
-  },
-  {
-    "restaurant_id": "chefi-00142",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/8k2z9vbw6Fs?source=pa&opi=89978449&hl=en-PK&gei=4qMgaZzaEs2WwcsPt8P-QA&sourceurl=https://www.google.com/search?q%3D%2522LOVE%2BKorean%2BBBQ%2522%2B%2522319,%2B5th%2BAvenue,%2BNew%2BYork,%2BNY,%2B10016%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9901191787690ede%26source%3Dhp%26ei%3D2aMgaYPQLo6fi-gPhajKwQc%26iflsig%3DAOw8s4IAAAAAaSCx6bYMUwDE9oe7wgjQrL_gNeXpDrcq%26ved%3D0ahUKEwjDoKbh5IORAxWOzwIHHQWUMngQ4dUDCA4%26uact%3D5%26oq%3D%2522LOVE%2BKorean%2BBBQ%2522%2B%2522319,%2B5th%2BAvenue,%2BNew%2BYork,%2BNY,%2B10016%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IkYiTE9WRSBLb3JlYW4gQkJRIiAiMzE5LCA1dGggQXZlbnVlLCBOZXcgWW9yaywgTlksIDEwMDE2IiBOZXcgWW9yayBtZW51SI0DUABY1AJwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T17:39:52.790416Z",
-    "scraped_at": "2025-11-25T15:14:21.715981+00:00",
-    "restaurant_name": "LOVE Korean BBQ",
-    "menu_file": "menus_html\\chefi-00142_love_korean_bbq.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00142_LOVE_Korean_BBQ.html"
   },
   {
     "restaurant_id": "chefi-00143",
@@ -1168,16 +1098,6 @@
     "restaurant_name": "Fumo",
     "menu_file": "menus_html\\chefi-00193_fumo.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00193_fumo.html"
-  },
-  {
-    "restaurant_id": "chefi-00194",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/YC8PBU5Wt9s?source=pa&opi=89978449&hl=en-PK&gei=d6ogafzFIemyi-gP47rQ6QM&sourceurl=https://www.google.com/search?q%3D%2522The%2BLaurels%2522%2B%2522231,%2B2nd%2BAvenue,%2BNew%2BYork,%2BNY,%2B10003%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9901191787690ede%26source%3Dhp%26ei%3DdKogabGpAtq2i-gPp7iAgAY%26iflsig%3DAOw8s4IAAAAAaSC4hCZqwsCPJQZfZFhrlxh9XtU8WT0v%26ved%3D0ahUKEwixs6SH64ORAxVa2wIHHSccAGAQ4dUDCA4%26uact%3D5%26oq%3D%2522The%2BLaurels%2522%2B%2522231,%2B2nd%2BAvenue,%2BNew%2BYork,%2BNY,%2B10003%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IkIiVGhlIExhdXJlbHMiICIyMzEsIDJuZCBBdmVudWUsIE5ldyBZb3JrLCBOWSwgMTAwMDMiIE5ldyBZb3JrIG1lbnVIzwRQAFjjAnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T18:07:53.740825Z",
-    "scraped_at": "2025-11-25T15:18:45.328417+00:00",
-    "restaurant_name": "The Laurels",
-    "menu_file": "menus_html\\chefi-00194_the_laurels.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00194_The_Laurels.html"
   },
   {
     "restaurant_id": "chefi-00195",
@@ -1550,16 +1470,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00300_enoteca_maria.html"
   },
   {
-    "restaurant_id": "chefi-00304",
-    "menu_url": "https://stix-kosher-restaurant.resmenu.com/menu",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:06:29.162540Z",
-    "scraped_at": "2025-11-25T15:24:21.188080+00:00",
-    "restaurant_name": "Stix Kosher Restaurant",
-    "menu_file": "menus_html\\chefi-00304_stix_kosher_restaurant.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00304_stix_kosher_restaurant.html"
-  },
-  {
     "restaurant_id": "chefi-00305",
     "menu_url": "https://www.duffysmvp.com/menu/steaks-chops-seafood--pasta#:~:text=Duffy's%20Sports%20Grill%20%7C%20Menu%20%7C%20Steaks%2C%20Chops%2C%20Seafood%20%26%20Pasta",
     "menu_format": "HTML",
@@ -1628,16 +1538,6 @@
     "inserted_at": "2025-11-21T00:00:00Z",
     "scraped_at": "2025-11-25T15:26:09.891829+00:00",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00314_gari_columbus.html"
-  },
-  {
-    "restaurant_id": "chefi-00316",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/R4e2L7a5beQ?source=pa&opi=89978449&hl=en-PK&gei=4bkgadWIM-fWhbIP5p7h4As&sourceurl=https://www.google.com/search?q%3D%2522The%2BTang%2522%2B%2522920,%2BAmsterdam%2BAvenue,%2BNew%2BYork,%2BNY,%2B10025%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3D3bkgafroFO6ZseMP65DR6AI%26iflsig%3DAOw8s4IAAAAAaSDH7VkuIVeFsXnsijK-moR7Xt7e2A4r%26ved%3D0ahUKEwi6y8bg-YORAxXuTGwGHWtIFC0Q4dUDCA4%26uact%3D5%26oq%3D%2522The%2BTang%2522%2B%2522920,%2BAmsterdam%2BAvenue,%2BNew%2BYork,%2BNY,%2B10025%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IkUiVGhlIFRhbmciICI5MjAsIEFtc3RlcmRhbSBBdmVudWUsIE5ldyBZb3JrLCBOWSwgMTAwMjUiIE5ldyBZb3JrIG1lbnVIiARQAFi6A3AAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:13:48.840075Z",
-    "scraped_at": "2025-11-25T15:26:21.437443+00:00",
-    "restaurant_name": "The Tang",
-    "menu_file": "menus_html\\chefi-00316_the_tang.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00316_The_Tang.html"
   },
   {
     "restaurant_id": "chefi-00317",
@@ -1720,26 +1620,6 @@
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00328_le_souk_new_york_restaurant_hookah_lounge.html"
   },
   {
-    "restaurant_id": "chefi-00330",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/zn6tr0SBOOY?source=pa&opi=89978449&hl=en-PK&gei=4LwgabmqCuSa4-EPzpOa0QM&sourceurl=https://www.google.com/search?q%3D%2522Linen%2BHall%2522%2B%2522101,%2B3rd%2BAvenue,%2B10003%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3D1bwgaaj3IKG8i-gP0YqysQM%26iflsig%3DAOw8s4IAAAAAaSDK5SSRCR4mzR-KvE8SludvHPeXmGlS%26ved%3D0ahUKEwjotYXL_IORAxUh3gIHHVGFLDYQ4dUDCA4%26uact%3D5%26oq%3D%2522Linen%2BHall%2522%2B%2522101,%2B3rd%2BAvenue,%2B10003%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IjMiTGluZW4gSGFsbCIgIjEwMSwgM3JkIEF2ZW51ZSwgMTAwMDMiIE5ldyBZb3JrIG1lbnVIgQVQAFiqBHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:26:28.130157Z",
-    "scraped_at": "2025-11-25T15:27:03.140162+00:00",
-    "restaurant_name": "Linen Hall",
-    "menu_file": "menus_html\\chefi-00330_linen_hall.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00330_Linen_Hall.html"
-  },
-  {
-    "restaurant_id": "chefi-00331",
-    "menu_url": "https://www.google.com/maps/reserve/v/dine/c/XoLQa38COcg?source=pa&opi=89978449&hl=en-PK&gei=_7wgaZq8LKKQseMPhIrNqAI&sourceurl=https://www.google.com/search?q%3D%2522Hags%2522%2B%2522163,%2B1st%2BAvenue,%2BNew%2BYork,%2BNY,%2B10003%2522%2BNew%2BYork%2Bmenu%26sca_esv%3D9bd0e26604fdbc2f%26source%3Dhp%26ei%3D9rwgaZTpLOe4i-gPp-vpyAg%26iflsig%3DAOw8s4IAAAAAaSDLBrQW0hxZFrcLXXuEzQDPpeaxBcgX%26ved%3D0ahUKEwiUvO_a_IORAxVn3AIHHad1GokQ4dUDCA4%26uact%3D5%26oq%3D%2522Hags%2522%2B%2522163,%2B1st%2BAvenue,%2BNew%2BYork,%2BNY,%2B10003%2522%2BNew%2BYork%2Bmenu%26gs_lp%3DEgdnd3Mtd2l6IjsiSGFncyIgIjE2MywgMXN0IEF2ZW51ZSwgTmV3IFlvcmssIE5ZLCAxMDAwMyIgTmV3IFlvcmsgbWVudUixA1AAWPUCcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAA%26sclient%3Dgws-wiz",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:26:58.404025Z",
-    "scraped_at": "2025-11-25T15:27:05.625637+00:00",
-    "restaurant_name": "Hags",
-    "menu_file": "menus_html\\chefi-00331_hags.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00331_Hags.html"
-  },
-  {
     "restaurant_id": "chefi-00332",
     "menu_url": "https://lovemamanyc.com/menu",
     "menu_format": "HTML",
@@ -1748,16 +1628,6 @@
     "restaurant_name": "Love Mama",
     "menu_file": "menus_html\\chefi-00332_love_mama.html",
     "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00332_Love_Mama.html"
-  },
-  {
-    "restaurant_id": "chefi-00333",
-    "menu_url": "https://www.google.com/search?q=Combo+A&sca_esv=9bd0e26604fdbc2f&source=hp&ei=Hr0gaZGINvbzi-gP1smy2AU&iflsig=AOw8s4IAAAAAaSDLLmSsLeD96iOyXLhVX2Ux2fT6lPL2&ved=2ahUKEwjwi_3y_IORAxXuXmwGHYccDewQgK4QegQIBRAB&uact=5&oq=%22Hou+Hot+Pot%22+%2271%2C+4th+Avenue%2C+10003%22+New+York+menu&gs_lp=Egdnd3Mtd2l6IjMiSG91IEhvdCBQb3QiICI3MSwgNHRoIEF2ZW51ZSwgMTAwMDMiIE5ldyBZb3JrIG1lbnVIuwJQAFiSAnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz&mstk=AUtExfBC12TBmLf1Qj-OBDI14eZgQ2PX6LP54OYkQ57BT-znGO2784QENe89ffGaB5ZrkEqZ-mG-rXB-geQa4aWOwnH7QraDDxeH0vShyXDkbaQplVw_QSWAMzUFhtV-WnvOyaY&csui=3",
-    "menu_format": "HTML",
-    "inserted_at": "2025-11-21T19:27:43.141806Z",
-    "scraped_at": "2025-11-25T15:27:12.803708+00:00",
-    "restaurant_name": "Hou Hot Pot",
-    "menu_file": "menus_html\\chefi-00333_hou_hot_pot.html",
-    "menu_file_url": "https://falconxoft.github.io/i.chef-files/menus_html/chefi-00333_Hou_Hot_Pot.html"
   },
   {
     "restaurant_id": "chefi-00334",

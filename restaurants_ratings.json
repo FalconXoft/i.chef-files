@@ -91,19 +91,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00012",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Nha+Trang+One/data=!4m2!3m1!1s0x0:0xd7d0c5e719ad805d?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:18:02+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00014",
     "sources": [
       {
@@ -208,19 +195,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00024",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Hard+Rock+Cafe/data=!4m2!3m1!1s0x0:0xed0e40a6b9508db5?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:53:09+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00025",
     "sources": [
       {
@@ -229,32 +203,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Freemans/data=!4m2!3m1!1s0x0:0x63207e6fa38398bc?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T13:35:26+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00026",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Aurora+Brooklyn/data=!4m2!3m1!1s0x0:0x2abc3e89905beb9e?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:40:10+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00027",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 3.9,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Tick+Tock+Diner+NY/data=!4m2!3m1!1s0x0:0x1861ff239422a8fb?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:36:43+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -338,32 +286,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00037",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Ako/data=!4m2!3m1!1s0x0:0x95ae118113c18b59?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:07:21+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00038",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 301,
-        "rating_url": "https://www.google.com/maps/place/Joe's+Pizza/data=!4m2!3m1!1s0x0:0x43b20488619b3f43?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:52:23+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00039",
     "sources": [
       {
@@ -403,32 +325,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00042",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 131,
-        "rating_url": "https://www.google.com/maps/place/Tom's+Restaurant/data=!4m2!3m1!1s0x0:0x7e5d05fffaca6ff0?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:43:04+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00044",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.7,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Leland+Eating+and+Drinking+House/data=!4m2!3m1!1s0x0:0x78dd258dd001b886?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:44:43+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00045",
     "sources": [
       {
@@ -438,19 +334,6 @@
         "rating_url": "https://www.google.com/maps/place/The+River+Caf%C3%A9/data=!4m2!3m1!1s0x0:0x7f69c943fc8df753?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T13:49:15+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00046",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 176,
-        "rating_url": "https://www.google.com/maps/place/Bill's+Supper+Club/data=!4m2!3m1!1s0x0:0x5a40f69662b56262?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:16:14+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
       }
     ]
   },
@@ -468,19 +351,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00048",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Mezcal's/data=!4m2!3m1!1s0x0:0xc8969e8e9e493466?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:48:21+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00049",
     "sources": [
       {
@@ -489,19 +359,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Shaking+Crab+(Park+Slope)/data=!4m2!3m1!1s0x0:0x40a5237128328018?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T13:51:36+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00050",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/The+Four+Seasons+Restaurant/data=!4m2!3m1!1s0x0:0x2e68b9cf5e0067cf?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:11:44+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -533,19 +390,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00054",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Tom%E2%80%99s+Restaurant/data=!4m2!3m1!1s0x0:0xc9a68d71f90c2fc0?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T13:50:40+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00056",
     "sources": [
       {
@@ -559,32 +403,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00057",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": 170,
-        "rating_url": "https://www.google.com/maps/place/Breslin+Burger/data=!4m2!3m1!1s0x0:0xc5fd887f907ea722?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:46:15+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00060",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/USA+Brooklyn+Delicatessen/data=!4m2!3m1!1s0x0:0x34401f486d728625?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:08:32+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00063",
     "sources": [
       {
@@ -593,19 +411,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Farinella/data=!4m2!3m1!1s0x0:0xc93d191fc102e6b9?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T14:00:16+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00064",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Murray+Hill+Diner/data=!4m2!3m1!1s0x0:0x339e479414833d89?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:07:50+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -633,19 +438,6 @@
         "rating_url": "https://www.google.com/maps/search/ammos+estiatorio+Address+unavailable+google+reviews/@40.7542898,-73.9771371,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEyMC4xIKXMDSoASAFQAw%3D%3D",
         "inserted_at": "2025-11-24T13:58:52+00:00",
         "updated_at": "2025-11-24T13:58:52+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00067",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Tony's+Di+Napoli/data=!4m2!3m1!1s0x0:0x831dafc2627c8d16?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:05:18+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
   },
@@ -780,32 +572,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00081",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 3.0,
-        "reviews_count": 226,
-        "rating_url": "https://www.google.com/maps/place/Sergimmo+Salumeria/data=!4m2!3m1!1s0x0:0x10d73c1d4b14158e?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:22:54+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00082",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 11,
-        "rating_url": "https://www.google.com/maps/place/Zoob+Zib+Thai+Authentic+Noodle+Bar/data=!4m2!3m1!1s0x0:0x41ee1065aea8cee5?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:32:24+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00083",
     "sources": [
       {
@@ -910,19 +676,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00095",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 16,
-        "rating_url": "https://www.google.com/maps/place/The+Lexington+Social/data=!4m2!3m1!1s0x0:0x6ca8eb681c0308ad?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:24:10+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00096",
     "sources": [
       {
@@ -984,19 +737,6 @@
         "rating_url": "https://www.google.com/maps/place/Hunan+Park/data=!4m2!3m1!1s0x0:0x663611356ed439e9?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T14:26:13+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00102",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": 87,
-        "rating_url": "https://www.google.com/maps/place/City+Diner/data=!4m2!3m1!1s0x0:0xd0b097e78a8b4d8c?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:35:47+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
       }
     ]
   },
@@ -1157,19 +897,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00116",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": 306,
-        "rating_url": "https://www.google.com/maps/place/Vanessa's+Dumpling+House/data=!4m2!3m1!1s0x0:0xafa7d45fc6891405?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:41:12+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00119",
     "sources": [
       {
@@ -1196,32 +923,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00121",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.5,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Katz's+Delicatessen/data=!4m2!3m1!1s0x0:0x313547e757cb8cea?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:52:26+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00122",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Mercato/data=!4m2!3m1!1s0x0:0xec40e50f45180ff3?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:51:45+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00123",
     "sources": [
       {
@@ -1231,19 +932,6 @@
         "rating_url": "https://www.google.com/maps/place/Blue+Smoke/data=!4m2!3m1!1s0x0:0x2a191353784cccaa?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T14:46:54+00:00",
         "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00124",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Banc+Cafe/data=!4m2!3m1!1s0x0:0xc92bfb893170feb4?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:42:53+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
   },
@@ -1274,32 +962,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00128",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 30,
-        "rating_url": "https://www.google.com/maps/place/Polash/data=!4m2!3m1!1s0x0:0x9e3709052962e6f0?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:48:07+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00129",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 17,
-        "rating_url": "https://www.google.com/maps/place/Ashbox/data=!4m2!3m1!1s0x0:0xdb1acd1edda17b86?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:49:38+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00130",
     "sources": [
       {
@@ -1309,19 +971,6 @@
         "rating_url": "https://www.google.com/maps/place/Lighthouse/data=!4m2!3m1!1s0x0:0xd779ececbbd4e4ba?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T14:47:32+00:00",
         "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00131",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.8,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Briciola+Pizza+Bar/data=!4m2!3m1!1s0x0:0x1e30ae888ae3ec5e?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:51:10+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
   },
@@ -1352,32 +1001,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00135",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": 200,
-        "rating_url": "https://www.google.com/maps/place/Taiwanese+Gourmet/data=!4m2!3m1!1s0x0:0xb2a20416ce4e84c5?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:00:37+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00136",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Lin+Restaurant+%E6%B3%95%E5%BC%8F%E6%9D%BF%E5%89%8D%E9%A4%90%E5%BB%B3/@25.0357241,121.5549215,17z/data=!3m1!4b1!4m6!3m5!1s0x3442ab69fcd3f5b1:0x582fffa04d4e81b6!8m2!3d25.0357241!4d121.5549215!16s%2Fg%2F11vljzbqk4?entry=ttu&g_ep=EgoyMDI1MTEyMC4xIKXMDSoASAFQAw%3D%3D",
-        "inserted_at": "2025-11-24T14:48:54+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00137",
     "sources": [
       {
@@ -1404,19 +1027,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00139",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 60,
-        "rating_url": "https://www.google.com/maps/place/Philomena's+Pizza/data=!4m2!3m1!1s0x0:0xaa79bdb59ff36960?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:54:27+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00140",
     "sources": [
       {
@@ -1438,19 +1048,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Mamajuana+Cafe+Inwood/data=!4m2!3m1!1s0x0:0x8cb9309396501a78?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:59:06+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00142",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.5,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/LOVE+Korean+BBQ/data=!4m2!3m1!1s0x0:0xf1c51c53e91ef0f1?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T14:56:25+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -1508,19 +1105,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00147",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": 418,
-        "rating_url": "https://www.google.com/maps/place/Clark's/data=!4m2!3m1!1s0x0:0x7669214287d4ff65?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:01:17+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00148",
     "sources": [
       {
@@ -1573,19 +1157,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00153",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 12,
-        "rating_url": "https://www.google.com/maps/place/Rudraks/data=!4m2!3m1!1s0x0:0x56a74c1525f0b5e?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:00:00+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00155",
     "sources": [
       {
@@ -1625,19 +1196,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00158",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.5,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Del+Frisco's+Double+Eagle+Steakhouse/data=!4m2!3m1!1s0x0:0x1de767bc6d9ae0c?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:17:39+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00160",
     "sources": [
       {
@@ -1660,32 +1218,6 @@
         "rating_url": "https://www.google.com/maps/place/Giardino+D'Oro/data=!4m2!3m1!1s0x0:0xb34d8f0cd9344feb?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T15:12:39+00:00",
         "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00163",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.2,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Raj's+Indian+Kitchen+FiDi/data=!4m2!3m1!1s0x0:0xb88b82611007823?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:08:00+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00165",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.2,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Hyatt+Centric+Wall+Street+New+York/data=!4m2!3m1!1s0x0:0xcbe0dc51cb73186c?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:08:26+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
   },
@@ -1768,19 +1300,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00176",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 91,
-        "rating_url": "https://www.google.com/maps/place/Namkeen/data=!4m2!3m1!1s0x0:0x7e11a1abfeb3423d?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:17:05+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00177",
     "sources": [
       {
@@ -1833,19 +1352,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00181",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Paulie+Gee's/data=!4m2!3m1!1s0x0:0xc1b6a5ae4bb699b6?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:14:33+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00182",
     "sources": [
       {
@@ -1854,32 +1360,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Marseille/data=!4m2!3m1!1s0x0:0xd3fdf6f027e9befd?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T15:26:31+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00183",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 390,
-        "rating_url": "https://www.google.com/maps/place/Westway+Diner/data=!4m2!3m1!1s0x0:0x23926f5f55b72154?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:15:52+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00184",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.1,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Mama+Mia+44SW/data=!4m2!3m1!1s0x0:0xb6ad5b42ebde03de?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:16:29+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -1898,32 +1378,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00186",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Dani's+House+of+Pizza/data=!4m2!3m1!1s0x0:0x361bc4c995e6ba59?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:57:19+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00187",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.1,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Village+Diner/data=!4m2!3m1!1s0x0:0xcaf1cff02f9511f3?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:33:57+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00189",
     "sources": [
       {
@@ -1932,19 +1386,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Calexico/data=!4m2!3m1!1s0x0:0x22a7551aba4aa6e6?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T15:38:15+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00190",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Astoria+Gramercy+Caf3/data=!4m2!3m1!1s0x0:0xbe7fe9d6b5537cdd?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:42:24+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -1984,19 +1425,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Fumo+Upper+West+Side/data=!4m2!3m1!1s0x0:0xfc74e64d3ca5d2be?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:41:16+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00194",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/The+Laurels+Cafe+and+Bar/data=!4m2!3m1!1s0x0:0x4de4ffaffb4e3e0b?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:57:38+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -2093,19 +1521,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00202",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.8,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Poulet+Sans+Tete/data=!4m2!3m1!1s0x0:0x2fc45fbb3d123a31?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:32:47+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00203",
     "sources": [
       {
@@ -2141,19 +1556,6 @@
         "rating_url": "https://www.google.com/maps/place/Diner+24+NYC/data=!4m2!3m1!1s0x0:0x4786cc62fb0f1597?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T15:28:58+00:00",
         "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00206",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Fred's/data=!4m2!3m1!1s0x0:0x345f8263b5f200fb?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:29:34+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
   },
@@ -2301,19 +1703,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00220",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 5.0,
-        "reviews_count": 508,
-        "rating_url": "https://www.google.com/maps/place/Kashmir9/data=!4m2!3m1!1s0x0:0x19dca06b5ef7f8bd?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:37:06+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00221",
     "sources": [
       {
@@ -2327,19 +1716,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00223",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.1,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Waverly+Diner/data=!4m2!3m1!1s0x0:0x284f8147c121d7e4?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:40:57+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00224",
     "sources": [
       {
@@ -2348,32 +1724,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Chelsea+Square+Diner/data=!4m2!3m1!1s0x0:0x8f8105b06181ad23?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T15:40:21+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00225",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 3.0,
-        "reviews_count": 107,
-        "rating_url": "https://www.google.com/maps/place/Moran%E2%80%99s+Chelsea/data=!4m2!3m1!1s0x0:0x1abc653c15c2c9c8?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:41:22+00:00",
-        "updated_at": "2025-11-24T18:29:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00226",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 3.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Donatella/data=!4m2!3m1!1s0x0:0x66f04149b6b6d2da?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T15:41:50+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -2496,45 +1846,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00291",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Paul's+Da+Burger+Joint/data=!4m2!3m1!1s0x0:0xe9e535c36ef909ab?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:18:49+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00292",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.8,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Mr+KEKE+Asian+Noodles/data=!4m2!3m1!1s0x0:0x384283ec1d1b901b?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:19:21+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00293",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": null,
-        "reviews_count": 69,
-        "rating_url": "https://www.google.com/maps/search/Koto+Sushi+&+Steak+552,+Henry+Street,+11231+google+reviews",
-        "inserted_at": "2025-11-24T16:37:52+00:00",
-        "updated_at": "2025-11-24T16:37:52+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00294",
     "sources": [
       {
@@ -2543,19 +1854,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Recette/data=!4m2!3m1!1s0x0:0xa3d592735794c548?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:19:55+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00295",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.9,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/6+Restaurant+-+NYC/data=!4m2!3m1!1s0x0:0xf36d6853c301338a?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:22:15+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -2570,19 +1868,6 @@
         "rating_url": "https://www.google.com/maps/place/Mizu/data=!4m2!3m1!1s0x0:0xc6ab2964acd6ffb2?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:20:31+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00297",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": null,
-        "reviews_count": 1226,
-        "rating_url": "https://www.google.com/maps/search/Brooklyn+Burgers+&+Beer+259,+5th+Avenue,+11215+google+reviews",
-        "inserted_at": "2025-11-24T16:23:03+00:00",
-        "updated_at": "2025-11-24T16:23:03+00:00"
       }
     ]
   },
@@ -2621,45 +1906,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Nonnas+of+the+World/data=!4m2!3m1!1s0x0:0x330ab12b954d84e3?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:24:24+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00301",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.6,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Caf%C3%A9+Mars/data=!4m2!3m1!1s0x0:0x67afda1cd2daec79?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:24:58+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00302",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Chat+n'+Chew/data=!4m2!3m1!1s0x0:0x1ef36594953267fb?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:25:34+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00304",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Stix/data=!4m2!3m1!1s0x0:0x83f518d7ec38861d?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:26:10+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -2756,19 +2002,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00316",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/The+Tang/data=!4m2!3m1!1s0x0:0x3b0e0b88bac0382c?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:35:18+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00317",
     "sources": [
       {
@@ -2790,19 +2023,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Taqueria+86/data=!4m2!3m1!1s0x0:0x214b61c89e384f59?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:35:55+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00319",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Calaveras+Corner/data=!4m2!3m1!1s0x0:0x57894ef6d72e9219?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:36:35+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
@@ -2860,32 +2080,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00324",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Kissaki+Sushi/@40.7253384,-73.9919442,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2593cfcf91a17:0x8f640f67c9598cd3!8m2!3d40.7253384!4d-73.9919442!16s%2Fg%2F11h92dqlsz?entry=ttu&g_ep=EgoyMDI1MTEyMC4xIKXMDSoASAFQAw%3D%3D",
-        "inserted_at": "2025-11-24T16:40:25+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00325",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.2,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Cozy+Soup+%26+Burger/data=!4m2!3m1!1s0x0:0x71a26fb80dad6f48?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:39:43+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00327",
     "sources": [
       {
@@ -2912,45 +2106,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00329",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.0,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Dos+Caminos+-+CLOSED/data=!4m2!3m1!1s0x0:0x9b41dd228589b8eb?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:43:01+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00330",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Linen+Hall/data=!4m2!3m1!1s0x0:0x41a5fa5e85c42276?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:43:37+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00331",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.8,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/HAGS/data=!4m2!3m1!1s0x0:0xe65647df80b1d52b?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:45:34+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00332",
     "sources": [
       {
@@ -2960,19 +2115,6 @@
         "rating_url": "https://www.google.com/maps/place/Love+Mama/data=!4m2!3m1!1s0x0:0xa6da6ea5ef69b9ed?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:45:00+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00333",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": null,
-        "reviews_count": 331,
-        "rating_url": "https://www.google.com/maps/search/Hou+Hot+Pot+71,+4th+Avenue,+10003+google+reviews/@40.7415201,-73.9902869,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEyMC4xIKXMDSoASAFQAw%3D%3D",
-        "inserted_at": "2025-11-24T16:44:21+00:00",
-        "updated_at": "2025-11-24T16:44:21+00:00"
       }
     ]
   },
@@ -3120,32 +2262,6 @@
     ]
   },
   {
-    "restaurant_id": "chefi-00345",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.4,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Jack's+Wife+Freda/data=!4m2!3m1!1s0x0:0x1dd33c62aeb2a76a?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:53:26+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00346",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.3,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Ed's+Lobster+Bar/data=!4m2!3m1!1s0x0:0xd3ef315b3ac7c1a1?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:54:42+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
     "restaurant_id": "chefi-00347",
     "sources": [
       {
@@ -3167,19 +2283,6 @@
         "reviews_count": null,
         "rating_url": "https://www.google.com/maps/place/Piacere/data=!4m2!3m1!1s0x0:0xc1dca7bbbf8d1dc7?sa=X&ved=1t:2428&ictx=111",
         "inserted_at": "2025-11-24T16:55:20+00:00",
-        "updated_at": "2025-11-25T13:56:02+00:00"
-      }
-    ]
-  },
-  {
-    "restaurant_id": "chefi-00349",
-    "sources": [
-      {
-        "source": "Google",
-        "rating": 4.5,
-        "reviews_count": null,
-        "rating_url": "https://www.google.com/maps/place/Kimika/data=!4m2!3m1!1s0x0:0x393946e6899bd818?sa=X&ved=1t:2428&ictx=111",
-        "inserted_at": "2025-11-24T16:56:27+00:00",
         "updated_at": "2025-11-25T13:56:02+00:00"
       }
     ]
