@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html class="no-js" ng-app="resyApp" ng-csp="no-unsafe-eval" ng-strict-di="">
+ <head>
+  <base href="/"/>
+  <title ng-bind="metadata.title">
+   Resy | Right This Way
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="en-US" http-equiv="Content-Language" ng-attr-content="{{metadata.language}}"/>
+  <meta content="width=device-width,initial-scale=1,user-scalable=yes" name="viewport">
+   <meta content="Discover restaurants to love in your city and beyond. Get the latest restaurant intel and explore Resyâs curated guides to find the right spot for any occasion. Book your table now through the Resy iOS app or Resy.com." name="description" ng-attr-content="{{metadata.description}}"/>
+   <meta content="200" name="prerender-status-code" ng-attr-content="{{prerender.responseCode}}"/>
+   <meta name="prerender-header" ng-attr-content="{{prerender.location}}" ng-if="prerender.location"/>
+   <meta content="index" name="robots" ng-attr-content="{{metadata.robots}}"/>
+   <link ng-attr-href="{{ metadata.canonical | resySce: 'resourceUrl' }}" rel="canonical"/>
+   <link href="../images/favicon.ico?v=5" rel="shortcut icon" type="image/x-icon"/>
+   <link href="../images/favicon.ico?v=5" rel="apple-touch-icon"/>
+   <meta content="notranslate" name="google"/>
+   <meta content="notranslate" name="googlebot"/>
+   <meta content="summary" name="twitter:card">
+    <meta content="@resy" name="twitter:site">
+     <meta content="Resy | Right This Way" name="twitter:title" ng-attr-content="{{metadata.title}}"/>
+     <meta content="Discover restaurants to love in your city and beyond. Get the latest restaurant intel and explore Resyâs curated guides to find the right spot for any occasion. Book your table now through the Resy iOS app or Resy.com." name="twitter:description" ng-attr-content="{{metadata.description}}"/>
+     <meta content="https://s3.amazonaws.com/resy.com/images/social/twitter-preview.png" name="twitter:image" ng-attr-content="{{metadata.image_twitter}}"/>
+     <meta content="Resy | Right This Way" ng-attr-content="{{metadata.title}}" property="og:title"/>
+     <meta content="Discover restaurants to love in your city and beyond. Get the latest restaurant intel and explore Resyâs curated guides to find the right spot for any occasion. Book your table now through the Resy iOS app or Resy.com." ng-attr-content="{{metadata.description}}" property="og:description"/>
+     <meta content="Resy" property="og:site_name"/>
+     <meta content="https://s3.amazonaws.com/resy.com/images/social/facebook-preview.png" ng-attr-content="{{metadata.image_facebook}}" property="og:image"/>
+     <meta content="app-id=866163372, app-argument=http://resy.com" name="apple-itunes-app" ng-attr-content="{{'app-id=866163372' + (metadata.appDeepLink ? ', app-argument=' + metadata.appDeepLink : '')}}"/>
+     <link href="favicon.ico" rel="icon"/>
+     <link href="styles/commons.f8d4ee43c3d62883a5cc.css" rel="stylesheet"/>
+     <link href="styles/app.a178f095ff5e2830dce4.css" rel="stylesheet"/>
+     <link href="styles/modules.86a95956759013ee533d.css" rel="stylesheet"/>
+    </meta>
+   </meta>
+  </meta>
+  <style>
+   body{font-family:Arial,sans-serif;padding:20px;max-width:1000px;margin:auto;}
+  </style>
+ </head>
+ <body ng-class="[metadata.bodyClasses, browser, {'no-scroll': isBackdropOpen}]">
+  <!--[if lt IE 10]>
+      <div class="error-page">
+        <div class="logo"><img src="images/resy-logo-transparent.png" alt="Book With Resy" width="60" height="60" /></div>
+        <p class="browsehappy">Resy uses the latest technology to bring you a great experience. <a href="http://browsehappy.com/" target="_blank">Upgrade your browser</a> to get new features and better security along with all the hottest tables.</p>
+      </div>
+    <![endif]-->
+  <!--[if gte IE 10]> -->
+  <div class="page-wrapper" id="page-wrapper">
+   <button class="skip-to-main" href="javascript:void(0);" ng-click="scrollTo('main-anchor');" target="_self">
+    {{'titles.skip_to_main' | translate}}
+   </button>
+   <preview-banner is-mobile="!matchMedia.md" ng-if="previewMode">
+   </preview-banner>
+   <resy-modals ng-if="showModals">
+   </resy-modals>
+   <resy-top-nav ng-if="matchMedia.md &amp;&amp; showTopNav">
+   </resy-top-nav>
+   <resy-nav ng-if="showNav">
+   </resy-nav>
+   <div aria-hidden="true" id="main-anchor" tabindex="-1">
+    Main Content
+   </div>
+   <main>
+    <div aria-hidden="{{!!isBackdropOpen}}" id="page-content" ng-view="">
+     <div class="Loader PageLoader">
+      <div class="loading">
+      </div>
+     </div>
+    </div>
+   </main>
+   <resy-footer aria-hidden="{{!!isBackdropOpen}}" collections="collections" ng-show="showFooter">
+   </resy-footer>
+  </div>
+  <!-- <![endif]-->
+ </body>
+</html>

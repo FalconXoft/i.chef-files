@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="app-id=962908053" name="apple-itunes-app"/>
+  <meta content="app-id=com.menufy.menufyportal" name="google-play-app"/>
+  <title>
+   Restaurants - Delivery &amp; Takeout - Order Online - Menufy
+  </title>
+  <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/favicon.ico?lu=f698666f40baa940bc6c7fc2c92119b3" rel="shortcut icon"/>
+  <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/favicon-32x32.png?lu=29c36899235479d9371731cbcb213ab7" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/favicon-16x16.png?lu=8d1b8b4831ddd4ea1c1cbbd10fe8b786" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/apple-touch-icon.png?lu=348122e9f09b1d200e84cd53cbd4d0f6" rel="apple-touch-icon" sizes="180x180"/>
+  <meta content="Order online for carryout or delivery from restaurants near you and conveniently pay by Credit Card, Apple Pay, Google Pay, PayPal, Venmo, and more. Menufy is fast and easy!" name="description">
+   <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" rel="stylesheet"/>
+   <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" rel="stylesheet"/>
+   <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" rel="stylesheet"/>
+   <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/awesome-bootstrap-checkbox.css?lu=8af405b2b008914df78c043ac4a09cd0" rel="stylesheet"/>
+   <link href="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/menufyPortal.min.css?lu=a63b2ffba749da21ea10dbe8e49faabc" rel="stylesheet"/>
+   <!-- Meta Pixel Code -->
+   <!-- End Meta Pixel Code -->
+  </meta>
+  <style>
+   body{font-family:Arial,sans-serif;padding:20px;max-width:1000px;margin:auto;}
+  </style>
+ </head>
+ <body>
+  <header id="header">
+   <div id="header-inner">
+    <div id="logo-wrapper">
+     <a href="http://menufy.com/">
+      <img alt="Menufy" id="logo-image" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/MenufyLogo-500.png?lu=9af363285891a262d6bdb3654b6fd258"/>
+     </a>
+    </div>
+    <div id="header-nav">
+     <nav>
+      <div class="corp-link">
+       <a href="https://restaurant.menufy.com/">
+        Own a Restaurant?
+       </a>
+      </div>
+     </nav>
+    </div>
+   </div>
+  </header>
+  <div class="jumbotron">
+   <div class="container">
+    <h1>
+     Hungry? Order Food Online!
+    </h1>
+    <form class="form-inline" id="search-form">
+     <div class="input-group">
+      <span class="input-group-btn">
+       <button aria-label="Use My Location" class="btn btn-success btn-lg" id="GeolocationBtn" type="button">
+        <i aria-hidden="true" class="fas fa-crosshairs fa-lg">
+        </i>
+       </button>
+      </span>
+      <input aria-label="Enter your address" class="form-control input-lg" id="address" placeholder="Enter your address" type="text"/>
+     </div>
+     <select aria-label="Select Delivery and/or Carryout" class="input-lg form-control" id="order-type">
+      <option>
+       Delivery &amp; Carryout
+      </option>
+      <option>
+       Delivery
+      </option>
+      <option>
+       Carryout
+      </option>
+     </select>
+     <button class="btn btn-lg btn-success" data-loading-text="&lt;i class='fas fa-spinner fa-spin' aria-hidden='true'&gt;&lt;/i&gt; Searching..." id="FindBtn" type="submit">
+      Find Restaurants
+     </button>
+    </form>
+    <span aria-live="polite" class="alert alert-danger" id="error-msg" role="status">
+     Oops!
+    </span>
+    <a class="btn" href="#" id="filters-link">
+     Filter by Cuisine &amp; Promotion
+    </a>
+    <a class="btn" href="#" id="show-map">
+     View Map
+    </a>
+   </div>
+  </div>
+  <section id="search-results">
+   <div class="container">
+    <div class="placeholder app-links">
+     <a href="https://apps.apple.com/us/app/menufy-food-delivery-pickup/id962908053">
+      <img alt="Download Menufy on the App Store" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/App_Store_Badge.png?lu=14221dbe8a0ff771e003a2410a674a1a"/>
+     </a>
+     <a href="https://play.google.com/store/apps/details?id=com.menufy.menufyportal&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+      <img alt="Download Menufy on Google Play" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/google-play-badge.png?lu=55268d57049f944138d1a23fa23dbb03"/>
+     </a>
+    </div>
+    <div class="placeholder home">
+     <p>
+      <strong>
+       Order online
+      </strong>
+      for carryout or delivery from restaurants near you!
+      <strong>
+       Menufy
+      </strong>
+      is fast and easy, try it by entering your address above!
+     </p>
+    </div>
+    <br/>
+    <div class="placeholder payments">
+     <p class="headline">
+      We accept a wide variety of payments:
+     </p>
+     <p>
+      <img alt="Accepts Apple Pay" aria-hidden="true" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/apple-pay-payment-mark.svg?lu=66822880cb8ecca6c0c71dec13e62578" style="height:38px; vertical-align:top; margin-top:4px;" title="Accepts Apple Pay"/>
+      <span class="sr-only">
+       Accepts Apple Pay,
+      </span>
+      <img alt="Accepts Google Pay" aria-hidden="true" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/google_pay_mark.svg?lu=cf44cd3474c8b0bf717ebf03dff9bae6" style="height:38px; vertical-align:top; margin-top:4px;" title="Accepts Google Pay"/>
+      <span class="sr-only">
+       Accepts Google Pay,
+      </span>
+      <img alt="Accepts Venmo" aria-hidden="true" src="https://production-cdn-hdb5b9fwgnb9bdf9.z01.azurefd.net/portalcontent/blue_venmo_acceptance_mark.svg?lu=7a3280d8dc085164952fbd8bfac0505f" style="height:38px; vertical-align:top; margin-top:4px;" title="Accepts Venmo"/>
+      <span class="sr-only">
+       Accepts Venmo,
+      </span>
+      <i aria-hidden="true" class="fab fa-cc-paypal fa-3x" style="color:#0070ba;" title="Accepts PayPal">
+      </i>
+      <span class="sr-only">
+       Accepts PayPal,
+      </span>
+      <!--i class="fab fa-bitcoin fa-3x" style="color:#f7931a;" title="Accepts Bitcoin, Bitcoin Cash, Ethereum, Ripple and USD coins" aria-hidden="true"></!--i><span class="sr-only">Accepts Bitcoin, Bitcoin Cash, Ethereum, Ripple and USD coins,</span-->
+      <i aria-hidden="true" class="fab fa-cc-visa fa-3x" title="Accepts Visa">
+      </i>
+      <span class="sr-only">
+       Accepts Visa,
+      </span>
+      <i aria-hidden="true" class="fab fa-cc-mastercard fa-3x" title="Accepts Mastercard">
+      </i>
+      <span class="sr-only">
+       Accepts Mastercard,
+      </span>
+      <i aria-hidden="true" class="fab fa-cc-discover fa-3x" title="Accepts Discover">
+      </i>
+      <span class="sr-only">
+       Accepts Discover,
+      </span>
+      <i aria-hidden="true" class="fab fa-cc-amex fa-3x" title="Accepts American Express">
+      </i>
+      <span class="sr-only">
+       Accepts American Express,
+      </span>
+      <i aria-hidden="true" class="fab fa-money fa-3x" title="Accepts Cash">
+      </i>
+      <span class="sr-only">
+       Accepts Cash,
+      </span>
+     </p>
+    </div>
+    <div class="row" style="display:none">
+     <div class="col-md-8" style="padding-left:0px;">
+      <h2 id="first-list-header">
+       Select a restaurant to order online
+      </h2>
+      <div class="list-group" id="first-list">
+      </div>
+     </div>
+     <div class="col-md-4" style="padding-right:0px;">
+      <div aria-hidden="true" id="map-canvas">
+      </div>
+      <div class="filter" id="rest-filter" style="display:none">
+       <h3>
+        Restaurants Filter
+       </h3>
+       <div class="form">
+        <div class="checkbox checkbox-success" style="display:none">
+         <input id="checkbox-opennow" type="checkbox"/>
+         <label for="checkbox-opennow">
+          Open Now
+         </label>
+        </div>
+        <div class="checkbox checkbox-success" style="display:none">
+         <input id="checkbox-curbside" type="checkbox"/>
+         <label for="checkbox-curbside">
+          Curbside Pickup
+         </label>
+        </div>
+       </div>
+      </div>
+      <div class="filter" id="promo-filter" style="display:none">
+       <h3>
+        Promotions Filter
+       </h3>
+       <div class="form">
+       </div>
+      </div>
+      <div class="filter" id="delivery-fee-filter" style="display:none">
+       <h3>
+        Delivery Fee Filter
+       </h3>
+       <div class="form">
+       </div>
+      </div>
+      <div class="filter" id="cuisine-filter" style="display:none">
+       <h3>
+        Cuisines Filter
+       </h3>
+       <span class="sr-only">
+        Selecting/deselecting the following checkboxes will update the content in the main content area.
+       </span>
+       <div class="form">
+       </div>
+      </div>
+      <div id="attribute-filters">
+       <div class="filter" id="atmosphere-filter" style="display:none">
+        <h3>
+         Atmosphere Filter
+        </h3>
+        <span class="sr-only">
+         Selecting/deselecting the following checkboxes will update the content in the main content area.
+        </span>
+        <div class="form">
+        </div>
+       </div>
+       <div class="filter" id="foodType-filter" style="display:none">
+        <h3>
+         Food Types Filter
+        </h3>
+        <span class="sr-only">
+         Selecting/deselecting the following checkboxes will update the content in the main content area.
+        </span>
+        <div class="form">
+        </div>
+       </div>
+       <div class="filter" id="service-filter" style="display:none">
+        <h3>
+         Services Filter
+        </h3>
+        <span class="sr-only">
+         Selecting/deselecting the following checkboxes will update the content in the main content area.
+        </span>
+        <div class="form">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section id="states">
+   <div class="container">
+    <h2>
+     Browse By Location
+    </h2>
+    <div class="state-columns">
+     <a href="/AK">
+      Alaska
+     </a>
+     <a href="/AL">
+      Alabama
+     </a>
+     <a href="/AR">
+      Arkansas
+     </a>
+     <a href="/AZ">
+      Arizona
+     </a>
+     <a href="/CA">
+      California
+     </a>
+     <a href="/CO">
+      Colorado
+     </a>
+     <a href="/CT">
+      Connecticut
+     </a>
+     <a href="/DE">
+      Delaware
+     </a>
+     <a href="/FL">
+      Florida
+     </a>
+     <a href="/GA">
+      Georgia
+     </a>
+     <a href="/HI">
+      Hawaii
+     </a>
+     <a href="/IA">
+      Iowa
+     </a>
+     <a href="/ID">
+      Idaho
+     </a>
+     <a href="/IN">
+      Indiana
+     </a>
+     <a href="/KS">
+      Kansas
+     </a>
+     <a href="/KY">
+      Kentucky
+     </a>
+     <a href="/LA">
+      Louisiana
+     </a>
+     <a href="/MA">
+      Massachusetts
+     </a>
+     <a href="/MD">
+      Maryland
+     </a>
+     <a href="/ME">
+      Maine
+     </a>
+     <a href="/MI">
+      Michigan
+     </a>
+     <a href="/MN">
+      Minnesota
+     </a>
+     <a href="/MO">
+      Missouri
+     </a>
+     <a href="/MS">
+      Mississippi
+     </a>
+     <a href="/MT">
+      Montana
+     </a>
+     <a href="/NC">
+      North Carolina
+     </a>
+     <a href="/ND">
+      North Dakota
+     </a>
+     <a href="/NE">
+      Nebraska
+     </a>
+     <a href="/NH">
+      New Hampshire
+     </a>
+     <a href="/NJ">
+      New Jersey
+     </a>
+     <a href="/NM">
+      New Mexico
+     </a>
+     <a href="/NV">
+      Nevada
+     </a>
+     <a href="/NY">
+      New York
+     </a>
+     <a href="/OH">
+      Ohio
+     </a>
+     <a href="/OK">
+      Oklahoma
+     </a>
+     <a href="/OR">
+      Oregon
+     </a>
+     <a href="/PA">
+      Pennsylvania
+     </a>
+     <a href="/RI">
+      Rhode Island
+     </a>
+     <a href="/SC">
+      South Carolina
+     </a>
+     <a href="/SD">
+      South Dakota
+     </a>
+     <a href="/TN">
+      Tennessee
+     </a>
+     <a href="/TX">
+      Texas
+     </a>
+     <a href="/UT">
+      Utah
+     </a>
+     <a href="/VA">
+      Virginia
+     </a>
+     <a href="/VT">
+      Vermont
+     </a>
+     <a href="/WA">
+      Washington
+     </a>
+     <a href="/WI">
+      Wisconsin
+     </a>
+     <a href="/WV">
+      West Virginia
+     </a>
+     <a href="/WY">
+      Wyoming
+     </a>
+     <a href="/DC">
+      District of Columbia
+     </a>
+     <a href="/PR">
+      Puerto Rico
+     </a>
+     <a href="/VI">
+      Virgin Islands
+     </a>
+     <a href="/GU">
+      Guam
+     </a>
+    </div>
+   </div>
+  </section>
+  <div aria-live="polite" class="modal fade modal-vertical-centered" data-backdrop="static" data-keyboard="false" id="pleaseWaitDialog" role="status">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <h4 class="modal-title">
+       Searching...
+      </h4>
+     </div>
+     <div class="modal-body">
+      <div class="progress">
+       <div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" style="width: 100%">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer id="footer">
+   <div id="footer-inner">
+    <a class="corp-link-mobile" href="https://restaurant.menufy.com">
+     Own a Restaurant? Sign Up!
+    </a>
+    <div id="footer-wrapper">
+     <div class="row" id="footer-main">
+      <div class="col-sm-3">
+       <ul>
+        <li>
+         <a href="https://manage.menufy.com" target="_blank">
+          Restaurant Manager Login
+         </a>
+        </li>
+        <li>
+         <a href="https://support.menufy.com" target="_blank">
+          Help Center
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-sm-3">
+       <ul>
+        <li>
+         <a href="https://restaurant.menufy.com/partners">
+          Partners
+         </a>
+        </li>
+        <li>
+         <a href="https://hungerrush.applytojob.com/apply" rel="noopener" target="_blank">
+          Careers
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/privacy">
+          Privacy Policy
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/customer-terms-of-use">
+          Customer Terms of Use
+         </a>
+        </li>
+        <li>
+         <a href="https://manage.menufy.com/Manage/MerchantTOS">
+          Restaurant Terms of Use
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/press-kit">
+          Press Kit
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-sm-3">
+       <ul>
+        <li>
+         <a href="https://restaurant.menufy.com/espanol">
+          Español
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/chinese">
+          中文版本
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/hindi">
+          ગુજરાતી &amp; हिन्दी
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/korean">
+          한국어
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/thai">
+          ภาษาไทย
+         </a>
+        </li>
+        <li>
+         <a href="https://restaurant.menufy.com/vietnamese">
+          Tiếng Việt
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-sm-3 footer-contact">
+       <ul>
+        <li>
+         <a aria-label="Menufy Contact Phone Number: (913) 738-9399" href="tel:+19137389399" title="Menufy Contact Phone Number">
+          <i class="fas fa-phone fa-fw">
+          </i>
+          (913) 738-9399
+         </a>
+        </li>
+        <li>
+         <a href="mailto:info@menufy.com" title="Menufy Contact Email">
+          <i class="fas fa-envelope fa-fw">
+          </i>
+          info@menufy.com
+         </a>
+        </li>
+        <li style="line-height:1.5 !important;">
+         <a href="http://maps.google.com/?q=7400%20College%20Blvd%20Suite%20400%20Overland%20Park%20KS%2077041" rel="noopener" target="_blank" title="Menufy Company Address">
+          <div>
+           <i class="fas fa-map-marker fa-fw">
+           </i>
+           4501 S Pinemont Dr
+          </div>
+          <div style="padding-left:23px;">
+           Houston, TX 77041
+          </div>
+         </a>
+        </li>
+        <li>
+         <a href="/contact">
+          <i class="fas fa-link fa-fw">
+          </i>
+          Contact us
+         </a>
+        </li>
+        <li style="margin-top:20px;">
+         <a href="https://restaurant.menufy.com/accessibility-statement">
+          <i class="fas fa-wheelchair fa-fw">
+          </i>
+          Accessibility Statement
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="social-links">
+      <ul id="social">
+       <li>
+        <a class="icon" href="https://www.facebook.com/menufy" rel="noopener" target="_blank" title="Menufy Facebook Page">
+         <i aria-hidden="true" class="fab fa-facebook fa-lg">
+         </i>
+         <span class="sr-only">
+          Facebook
+         </span>
+        </a>
+       </li>
+       <li>
+        <a aria-label="Menufy's Instagram Page" class="icon" href="https://www.instagram.com/menufy/" rel="noopener" target="_blank">
+         <i aria-hidden="true" class="fab fa-instagram fa-lg">
+         </i>
+        </a>
+       </li>
+       <li>
+        <a class="icon" href="https://twitter.com/menufy" rel="noopener" target="_blank" title="Menufy Twitter Page">
+         <i aria-hidden="true" class="fab fa-twitter fa-lg">
+         </i>
+         <span class="sr-only">
+          Twitter
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="icon" href="https://www.linkedin.com/company/menufy" rel="noopener" target="_blank" title="Menufy LinkedIn Page">
+         <i aria-hidden="true" class="fab fa-linkedin fa-lg">
+         </i>
+         <span class="sr-only">
+          LinkedIn
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p class="text-center" id="footer-right-reserved" title="Menufy Version:25.11.11.136 Branch:users/caio.silva/MS-1497-move-systemservices-from-sentry-to-datadog Build Date:2025-11-11T21:28:05+00:00">
+      © 2025 Menufy All rights reserved.
+     </p>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <!-- Google tag (gtag.js) -->
+  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"/>
+  <link href="/css/pdfs.css" rel="stylesheet"/>
+  <link href="/css/styles.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/5.0.375/pdf_viewer.min.css" rel="stylesheet"/>
+  <title>
+   Kashkaval Garden All Menus
+  </title>
+  <style>
+   body{font-family:Arial,sans-serif;padding:20px;max-width:1000px;margin:auto;}
+  </style>
+ </head>
+ <body>
+  <div>
+   <div class="menu-nav">
+    <div class="menu-buttons-row">
+     <button class="menu-nav-button active" onclick="showMenu('dinner', this)">
+      Dinner
+     </button>
+     <button class="menu-nav-button" onclick="showMenu('lunch', this)">
+      Lunch
+     </button>
+     <button class="menu-nav-button" onclick="showMenu('brunch', this)">
+      Brunch
+     </button>
+     <button class="menu-nav-button" onclick="showMenu('bar', this)">
+      Bar/Dessert
+     </button>
+    </div>
+    <div class="resy-row">
+     <a class="resy-button" href="https://resy.com/cities/new-york-ny/venues/kashkaval-garden" id="resyButton-mSoBfhwI4-99Azo6v1yxN">
+      📅 Book Reservation
+     </a>
+    </div>
+   </div>
+   <div class="menu-section active" id="dinner-menu">
+    <canvas id="dinnerViewer1">
+    </canvas>
+    <br/>
+    <canvas id="dinnerViewer2">
+    </canvas>
+    <br/>
+    <canvas id="dinnerViewer3">
+    </canvas>
+   </div>
+   <div class="menu-section" id="lunch-menu">
+    <canvas id="lunchViewer1">
+    </canvas>
+    <br/>
+    <canvas id="lunchViewer2">
+    </canvas>
+    <br/>
+    <canvas id="lunchViewer3">
+    </canvas>
+   </div>
+   <div class="menu-section" id="brunch-menu">
+    <canvas id="brunchViewer1">
+    </canvas>
+    <br/>
+    <canvas id="brunchViewer2">
+    </canvas>
+   </div>
+   <div class="menu-section" id="bar-menu">
+    <canvas id="barViewer1">
+    </canvas>
+    <br/>
+    <canvas id="barViewer2">
+    </canvas>
+    <br/>
+    <canvas id="barViewer3">
+    </canvas>
+    <br/>
+    <canvas id="barViewer4">
+    </canvas>
+    <br/>
+    <canvas id="barViewer5">
+    </canvas>
+    <br/>
+    <canvas id="barViewer6">
+    </canvas>
+    <br/>
+    <canvas id="barViewer7">
+    </canvas>
+    <br/>
+    <canvas id="barViewer8">
+    </canvas>
+   </div>
+  </div>
+ </body>
+</html>

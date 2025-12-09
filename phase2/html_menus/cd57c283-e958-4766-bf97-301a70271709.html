@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="Foodie For All specializes in office catering for your favorite high-demand New York City restaurants such as Shake Shack, Melt Shop, Sweetgreen, &amp; many more!" name="description"/>
+  <meta content="Shake Shack catering,Sweetgreen catering,Melt Shop catering,Shake Shack menu,Nyc catering,Shake Shack delivery,Sweetgreen delivery,Melt Shop delivery,Food delivery NYC,catering NYC" name="keywords"/>
+  <title>
+   Create Menu - Foodie For All
+  </title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet"/>
+  <link href="/assets/images/FoodieForAll_transp_favicon-150x150.png" rel="icon" type="image/png">
+   <!-- Google Tag Manager -->
+   <!-- End Google Tag Manager -->
+   <link href="/Content/css?v=gLStuhd8dH2SDkyurNJBeAnsPP65Q8kGULDWNWg_m8g1" rel="stylesheet"/>
+   <link href="/Content/css_custom?v=v0psmFxVmnlOrrjP80GPsZxcb9GAn1uK6PIqwLTcbFI1" rel="stylesheet"/>
+   <link href="/Content/slickcss?v=Ul577YmyYeZdqGfUoub_K4tp3NIuI5o04TdUaaDKSuo1" rel="stylesheet"/>
+   <link href="/Content/footer?v=fvcJq5gz7Z1RHDdncKJU3VgpCo8rrHFTy45NH5alzxs1" rel="stylesheet"/>
+   <link href="/Content/datetimepickercss?v=AEjgcUaEcwDwzNxAXbeIjJw0r_4N8Z4hCfMb8ceN2Mk1" rel="stylesheet"/>
+   <link href="/Content/css_03?v=bp2Pqy8m13A8knkyxPK3ujWM-rzy3lqEjvLEV8QB_PU1" rel="stylesheet"/>
+   <link href="/Content/slickcss?v=Ul577YmyYeZdqGfUoub_K4tp3NIuI5o04TdUaaDKSuo1" rel="stylesheet"/>
+  </link>
+  <style>
+   body{font-family:Arial,sans-serif;padding:20px;max-width:1000px;margin:auto;}
+  </style>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-K3CXSWS" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="block header">
+   <article class="container-fluid">
+    <figure class="row">
+     <figure class="col-md-4 col-sm-6 col-xs-5">
+      <a href="/Search">
+       <img alt="logo" class="img-responsive" src="/assets/images/ffa-logo.png"/>
+      </a>
+     </figure>
+     <figure class="col-md-4 hidden-sm hidden-xs headerMenu mbHide">
+      <ul>
+       <li>
+        <a href="/Misc/About">
+         ABOUT
+        </a>
+       </li>
+       <li>
+        <a href="/Misc/PartnerWithUs">
+         PARTNER WITH US
+        </a>
+       </li>
+      </ul>
+     </figure>
+     <figure class="col-md-4 col-sm-9 col-xs-7 headerRightMenu text-right">
+      <ul>
+       <li>
+        <a class="regBtn btn active" href="#" onclick="ajaxLoadModal('ClientLogin', 'Register');return false;">
+         REGISTER
+        </a>
+       </li>
+       <li>
+        <a class="signIn btn" href="#" id="btnSignInPopup" onclick="ajaxLoadModal('ClientLogin', 'Index');return false;">
+         SIGN-IN
+        </a>
+       </li>
+      </ul>
+     </figure>
+     <figure class="col-xs-3 mbShow">
+      <p class="text-right ffaBarIcon">
+       <button class="btn" data-target="#demo" data-toggle="collapse" type="button">
+        <i class="fa fa-bars">
+        </i>
+       </button>
+      </p>
+     </figure>
+     <figure class="col-xs-12 ffaMbMenu">
+      <div class="collapse headerMenu" id="demo">
+       <ul class="text-center">
+        <li>
+         <a href="/Search">
+          HOME
+         </a>
+        </li>
+        <li>
+         <a href="/Misc/About">
+          ABOUT
+         </a>
+        </li>
+        <li>
+         <a href="/Misc/PartnerWithUs">
+          PARTNER WITH US
+         </a>
+        </li>
+        <li>
+         <a href="/Misc/ContactUs">
+          CONTACT US
+         </a>
+        </li>
+        <li>
+         <a class="regBtn btn active" href="javascript:void(0)">
+          REGISTER
+         </a>
+        </li>
+        <li>
+         <a class="signIn btn" href="javascript:void(0)">
+          SIGN-IN
+         </a>
+        </li>
+       </ul>
+      </div>
+     </figure>
+    </figure>
+   </article>
+  </header>
+  <main class="block">
+   <form action="/RestaurantMenu/ModifyOrderPost" id="form0" method="post">
+    <section class="block ffa-westvilleWrap" style="background: url(https://s3.amazonaws.com/ffafoodimages/0A4E4579-1DE0-40.png) no-repeat scroll top left / cover ;">
+     <article class="container">
+      <figure class="row">
+       <figure class="col-md-12 col-sm-12 col-xs-12">
+        <div class="westvilleContent block">
+         <a class="pull-left preLink" href="#" onclick="goBack();">
+          <img alt="" class="img-responsive" src="/assets/images/back-top-page-icon.png"/>
+         </a>
+         <p class="westLogo pull-left">
+          <img alt="logo" class="img-responsive" src="https://s3.amazonaws.com/ffafoodimages/EE990EDC-2835-4B.jpg" style="max-width: 100px;"/>
+         </p>
+         <div class="westText pull-left">
+          <h2 class="westTitle">
+           Dorado Tacos
+          </h2>
+          <p class="westSubTitle">
+           Latin American
+          </p>
+         </div>
+         <a class="pull-right favourite" href="#">
+         </a>
+        </div>
+       </figure>
+       <!-- /.westvilleContent -->
+      </figure>
+      <!-- /.row -->
+     </article>
+     <!-- /.container -->
+    </section>
+    <!-- /.ffa-westvilleWrap -->
+    <section class="block ffa-product-wrap">
+     <article class="container">
+      <figure class="row">
+       <figure class="col-md-9 col-sm-9 col-xs-12">
+        <figure class="proCatagory">
+         <h2 class="proCatagoryTitle">
+          Main Dish
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="58a7da86-2c7c-49d4-bb67-fec9aa890086" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Asada Burrito
+            </p>
+            <span class="proPrice2">
+             <b>
+              $16.19
+             </b>
+            </span>
+            <div class="proDescription">
+             guac, pico, choice of protein
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="b9893955-3beb-4f1d-aee2-ceb82371e13e" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Baja Burrito
+            </p>
+            <span class="proPrice2">
+             <b>
+              $16.19
+             </b>
+            </span>
+            <div class="proDescription">
+             Cabbage, pico, pickled onions, crema, choice of protein
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="00a94657-d10b-4c5e-ae97-cb2a564dff68" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Bean &amp; Cheese Burrito
+            </p>
+            <span class="proPrice2">
+             <b>
+              $11.88
+             </b>
+            </span>
+            <div class="proDescription">
+             Black beans &amp; cheedar
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="2b9c3aff-905c-4c4d-95a6-d709d56eff6f" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             California Burrito
+            </p>
+            <span class="proPrice2">
+             <b>
+              $16.19
+             </b>
+            </span>
+            <div class="proDescription">
+             Fries, guac, cheese, pico, sour cream, choice of protein
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="52b7b4ce-44f7-44e1-992d-a9e9afae5c82" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Mission Burrito
+            </p>
+            <span class="proPrice2">
+             <b>
+              $16.19
+             </b>
+            </span>
+            <div class="proDescription">
+             beans, rice, guac, cheese, pico, sour cream, choice of protein
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="9a96e373-6391-497a-b855-5d31ed63a9af" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Quesadillas
+            </p>
+            <span class="proPrice2">
+             <b>
+              $0.00+
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="dcb62a70-7a30-4f67-9748-1f023e06a01c" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Rolled Tacos
+            </p>
+            <span class="proPrice2">
+             <b>
+              $0.00+
+             </b>
+            </span>
+            <div class="proDescription">
+             Topped with Guac &amp; Cheese
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="ff2b27a5-f8b6-41ec-8826-318778ace237" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Surf &amp; Turf California
+            </p>
+            <span class="proPrice2">
+             <b>
+              $18.44
+             </b>
+            </span>
+            <div class="proDescription">
+             Steak &amp; shrimp, fries, guac, cheese, pico, crema
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="f3707f22-6725-41fe-903c-da389f0f77c0" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Tacos
+            </p>
+            <span class="proPrice2">
+             <b>
+              $5.63
+             </b>
+            </span>
+            <div class="proDescription">
+             Served on soft corn tortilla
+            </div>
+           </a>
+          </figure>
+         </figure>
+         <h2 class="proCatagoryTitle">
+          Sides
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="eb2f5fd5-8fce-435a-8a58-1d5c2e8d0be0" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Black Beans
+            </p>
+            <span class="proPrice2">
+             <b>
+              $4.38
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="cc188be8-b08e-4c6c-9b49-d7ed588b65cc" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Chips &amp; Guac
+            </p>
+            <span class="proPrice2">
+             <b>
+              $9.38
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="fa0052c9-fa4d-4b2b-b3e3-430cb19641d9" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Chips &amp; Pico
+            </p>
+            <span class="proPrice2">
+             <b>
+              $6.88
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="f34a6594-527f-4858-870d-438967199d62" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Chips and Dips (Catering)
+            </p>
+            <span class="proPrice2">
+             <b>
+              $75.00
+             </b>
+            </span>
+            <div class="proDescription">
+             House-made corn Tortilla chips, Salsas, Pico de Gallo, Guacamole, and Crema
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="a20ecc4c-71b1-468e-817f-a95ea8b59489" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Fries
+            </p>
+            <span class="proPrice2">
+             <b>
+              $5.63
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="8c568416-64c8-424e-9ed7-5a91fd907dcc" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Guacamole
+            </p>
+            <span class="proPrice2">
+             <b>
+              $5.63
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="e21c0f46-e4d5-4350-935b-eaef31774108" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Mexican Rice
+            </p>
+            <span class="proPrice2">
+             <b>
+              $4.38
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="0a30c2f6-c9cb-4191-ba20-08392bf25f53" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Tortilla Chips
+            </p>
+            <span class="proPrice2">
+             <b>
+              $4.38
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+         </figure>
+         <h2 class="proCatagoryTitle">
+          Dessert / Pastry
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="12da44b0-1b50-45b2-9e83-b7b82224df10" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Churros
+            </p>
+            <span class="proPrice2">
+             <b>
+              $4.94
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+         </figure>
+         <h2 class="proCatagoryTitle">
+          Packages
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="de6e3792-bcbb-4b27-bc3d-a298cb073eb4" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Baja Caesar Salad (Catering)
+            </p>
+            <span class="proPrice2">
+             <b>
+              $20.00
+             </b>
+            </span>
+            <div class="proDescription">
+             romaine | house-made Caesar dressing | cotija cheese | spicy tortilla strips
+
+Priced per person
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="8705d980-ed4b-40e9-8af2-e5f81010114e" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Build Your Own Dorado Bowl
+            </p>
+            <span class="proPrice2">
+             <b>
+              $21.57
+             </b>
+            </span>
+            <div class="proDescription">
+             Choice of Fillings: Chicken | Carnitas | Steak | Chorizo con Papa | Mushrooms | Shrimp | Baja Fish 
+
+Includes: Yellow Rice | Black Beans | Guacamole | Salad | Crema | Cotija | House pickled Onions
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="96662237-8cf2-4217-a196-a5b0344f478c" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Build Your Own Taco Fiesta
+            </p>
+            <span class="proPrice2">
+             <b>
+              $21.57
+             </b>
+            </span>
+            <div class="proDescription">
+             2 tacos per person (15 people min)
+
+Choice of Fillings: Chicken | Carnitas | Steak | Chorizo con Papa | Mushrooms | Shrimp | Baja Fish
+
+Includes: Corn Tortillas | black beans | rice | Salsas | Guacamole
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="31d03740-1f6e-4d11-a5e0-c017ac219070" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Burrito Fiesta Box
+            </p>
+            <span class="proPrice2">
+             <b>
+              $23.44
+             </b>
+            </span>
+            <div class="proDescription">
+             Choice of Fillings: Chicken | Carnitas | Steak | Chorizo con Papa | Mushrooms | Shrimp | Baja Fish
+
+California Burrito - choice of filling | fries | cheese | sour cream | guacamole | pico de gallo
+Mission Burrito - choice of filling | yellow rice | black beans | guacamole | cheddar cheese | sour cream | pico de gallo
+Asada Burrito - choice of filling | guacamole | pico de gallo (DOES NOT COME WITH RICE AND BEANS)
+Baja Burrito - choice of filling | cabbage | crema | pico de gallo | pickled onion
+Bean and Cheese Burrito - black beans | cheddar cheese
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="1ac687f1-1e84-4bbe-b497-f32187b1e211" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Quesadilla Box
+            </p>
+            <span class="proPrice2">
+             <b>
+              $18.75
+             </b>
+            </span>
+            <div class="proDescription">
+             Cheese in a Flour Tortilla
+
+Choice of Fillings: Chicken | Carnitas | Steak | Chorizo con Papa | Mushrooms | Shrimp
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="d7ae22d0-70b2-413f-ad9a-8c90f6dc3388" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Taco Fiesta Box
+            </p>
+            <span class="proPrice2">
+             <b>
+              $19.69
+             </b>
+            </span>
+            <div class="proDescription">
+             (3 tacos per person) Pick 3
+            </div>
+           </a>
+          </figure>
+         </figure>
+         <h2 class="proCatagoryTitle">
+          Utensils
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="0cfcd158-d967-4f02-83de-4038d41f0640" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Serveware
+            </p>
+            <span class="proPrice2">
+             <b>
+              $0.00+
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="d48fd84a-af8a-4649-b6a6-e76dfbc9f08e" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Utensils, napkins, plates and serveware
+            </p>
+            <span class="proPrice2">
+             <b>
+              $0.00+
+             </b>
+            </span>
+            <div class="proDescription">
+            </div>
+           </a>
+          </figure>
+         </figure>
+         <h2 class="proCatagoryTitle">
+          Bowls
+         </h2>
+         <figure class="row">
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="21cde23a-ea0b-4d6e-89a7-2c301925850a" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Baja Caesar Salad (Individual)
+            </p>
+            <span class="proPrice2">
+             <b>
+              $0.00+
+             </b>
+            </span>
+            <div class="proDescription">
+             Romaine, Cotija, Ancho Tortilla Chips. Choice of protein
+            </div>
+           </a>
+          </figure>
+          <figure class="col-md-6 col-sm-6 col-xs-12">
+           <a class="productItem" data-id="9e6fd234-3c56-4c38-9a01-0949bc276112" data-target="#ffaModalAddItem" data-toggle="modal" href="#">
+            <p class="proName">
+             Dorado Bowl
+            </p>
+            <span class="proPrice2">
+             <b>
+              $13.44+
+             </b>
+            </span>
+            <div class="proDescription">
+             Rice, Beans, Pico, Guac, Salad, Crema, Cheese, Pickled Onion. Choice of protein
+            </div>
+           </a>
+          </figure>
+         </figure>
+        </figure>
+       </figure>
+       <!-- /.col -->
+       <figure class="col-md-3 col-sm-3 col-xs-12">
+        <div class="myMenuWrap block fixed-top" id="myMenuLeft">
+         <h2 class="myMenuTitle">
+          My Menu
+         </h2>
+         <div class="clientMenu">
+         </div>
+         <div class="subTotalTable block">
+          <table class="table">
+           <tr>
+            <td>
+             <b>
+              Grand Total
+             </b>
+             <a class="input-info" data-placement="top" data-toggle="tooltip" href="#" style="color:#938667" title="Includes everything - no additional fees or taxes will be added">
+              <i aria-hidden="true" class="fa fa-question-circle">
+              </i>
+             </a>
+            </td>
+            <td class="text-right">
+             <b>
+              $
+             </b>
+             <span id="subTotal" style="font-weight: 700;">
+             </span>
+            </td>
+           </tr>
+           <!--
+                                <tr>
+                                    <td><b>Tax </b></td>
+                                    <td class="text-right"><b>$00.00</b></td>
+                                </tr>
+                                <tr>
+                                    <td><b>Grand Total </b></td>
+                                    <td class="text-right"><b>$<span id="grandTotal">984.90</span></b></td>
+                                </tr>
+                                -->
+          </table>
+          <span id="errMsg" style="color:red; display:none;">
+           Please select an item to proceed to checkout
+          </span>
+          <span id="errMsgCost" style="color:red; display:none;">
+           Total amount should be at least 250$
+          </span>
+          <p class="text-center">
+           <button class="btn createMenu" id="emptyMenu" type="button">
+            EMPTY MENU
+           </button>
+          </p>
+          <p class="text-center">
+           <button class="btn proceed continueCheckout" data-type="toPopup" type="button">
+            ADD TO CART
+           </button>
+          </p>
+         </div>
+         <!-- /.subTotalTable -->
+        </div>
+       </figure>
+       <!-- /.col -->
+      </figure>
+      <!-- /.row -->
+     </article>
+     <!-- /.container -->
+    </section>
+    <!-- /.ffa-product-wrap -->
+    <!--   All modal -->
+    <input id="clientMenu" name="clientMenu" type="hidden"/>
+    <input id="OrderID" name="OrderID" type="hidden" value="00000000-0000-0000-0000-000000000000"/>
+    <input id="IsEdit" name="IsEdit" type="hidden" value=""/>
+    <input id="Type" name="Type" type="hidden" value=""/>
+    <input id="IsDraft" name="IsDraft" type="hidden" value="False"/>
+    <input id="OldEventDatetime" name="OldEventDatetime" type="hidden" value=""/>
+    <input id="AdminName" name="AdminName" type="hidden" value=""/>
+    <div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade ffaModalAddItem" id="ffaModalAddItem" role="dialog" tabindex="-1">
+     <div class="modal-dialog" role="document">
+      <div class="modal-content block">
+       <div class="modal-body block">
+        <h2 class="modalTitle">
+         <span id="popItemName">
+         </span>
+         <span class="price pull-right" id="popItemPriceContainer" style="text-align: center;">
+          $
+          <b class="popItemPrice">
+          </b>
+         </span>
+        </h2>
+        <p class="modalSubTitle">
+         Serves:
+         <span id="popItemServingSize">
+         </span>
+        </p>
+        <p class="modalSubTitle" style="margin-bottom:0px; padding-top: 10px;">
+         <b>
+          Description:
+         </b>
+        </p>
+        <p class="modalSubTitle" id="popItemDescription" style="margin: 0px;">
+        </p>
+        <p class="modalSubTitle" id="mayContainTitle" style="margin-bottom:0px;">
+         <b>
+          May Contain:
+         </b>
+        </p>
+        <span id="popItemDietaryRestrictions">
+        </span>
+        <div class="modalSlider row">
+        </div>
+        <div class="servCatagory block" style="padding-top: 20px;">
+         <p class="servTitle">
+          <b>
+           Quantity:
+          </b>
+         </p>
+         <div class="addProduct">
+          <a class="pull-left sub" data-price="" href="#">
+           <img alt="icon" src="/assets/images/sub-icon.png"/>
+          </a>
+          <input class="proNum" id="itemQuantity" maxlength="3" style="width: 35px; padding-left: 5px; border: none;" value="1"/>
+          <a class="pull-right add" href="#">
+           <img alt="icon" src="/assets/images/plus-icon.png"/>
+          </a>
+         </div>
+        </div>
+        <div id="itemAttributeList">
+        </div>
+       </div>
+       <!-- /.modal-body -->
+       <div class="modal-footer block">
+        <button class="btn createMenu pull-left" data-dismiss="modal" type="button">
+         <img alt="" src="/assets/images/close-icon.png"/>
+         CANCEL
+        </button>
+        <button class="btn proceed" id="addFoodItem" type="button">
+         <img alt="" src="/assets/images/ic-local-mall.png"/>
+         ADD TO MENU ($
+         <span class="popItemPrice">
+         </span>
+         )
+        </button>
+        <button class="btn proceed" id="updateFoodItem" type="button">
+         <img alt="" src="/assets/images/ic-local-mall.png"/>
+         UPDATE ($
+         <span class="popItemPrice">
+         </span>
+         )
+        </button>
+       </div>
+       <!-- /.modal-footer -->
+      </div>
+      <!-- /.modal-content -->
+     </div>
+     <!-- /.modal-dialog -->
+    </div>
+    <!-- /.ffaModalAddItem -->
+    <input id="Type" name="Type" type="hidden" value=""/>
+    <input id="RestaurantName" name="RestaurantName" type="hidden" value="Dorado Tacos"/>
+   </form>
+  </main>
+  <footer class="footer">
+   <article class="container-fluid">
+    <figure class="row">
+     <figure class="col-md-6 col-sm-6 col-xs-12 footerInner">
+      <p class="copyRight">
+       <span>
+        <img alt="footer logo" class="img-responsive" src="/assets/images/footer-logo.png" style="min-height: 55px;"/>
+       </span>
+       Copyright © 2025 - Foodie For All, Inc
+       <a href="/Home/TermsOfService" style="margin-right: 15px; padding-left: 22px; color: #C5BD9E;" target="_blank">
+        Terms of Service
+       </a>
+       |
+       <a href="/Home/PrivacyPolicy" style="margin-left: 15px; color: #C5BD9E;" target="_blank">
+        Privacy Policy
+       </a>
+      </p>
+     </figure>
+     <figure class="col-md-6 col-sm-6 col-xs-12 footerInner">
+      <ul class="footerMenu text-right">
+       <li>
+        <a href="/Misc/About">
+         ABOUT
+        </a>
+       </li>
+       <li>
+        <a href="/Misc/ContactUs">
+         CONTACT US
+        </a>
+       </li>
+       <li>
+        <a href="/Misc/PartnerWithUs">
+         PARTNER WITH US
+        </a>
+       </li>
+       <li>
+        <a href="/Misc/ContactUs">
+         FEEDBACK
+        </a>
+       </li>
+      </ul>
+     </figure>
+    </figure>
+   </article>
+  </footer>
+  <div id="genericModalHolder">
+  </div>
+  <div id="multiModalContainer">
+  </div>
+  <div id="spinner_overlay">
+  </div>
+  <div id="spinner_overlay_center">
+  </div>
+  <!-- Smartsupp Live Chat script -->
+  <!--  Global site tag (gtag.js) - Google Analytics -->
+ </body>
+</html>
